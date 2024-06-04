@@ -2,7 +2,7 @@
 
 ## 2024.1.5 (WIP)
 * fix plugin error reporter's configuration. It was asking users to open issues on the Extra Icons GitHub repository instead of the Extra Tools Pack one.
-* based on latest version of Extra IDE Tweaks (2024.8.7, 2024/06/03):
+* based on latest version of Extra IDE Tweaks (2024.8.7, WIP):
   * `File > Trusted Locations` can now also displays projects in first-level subdirectories. Enabled by default, you can disable this in settings.
   * minor code and UI rework.
 * based on latest version of Extra Icons (2024.4.2, 2024/05/24):
