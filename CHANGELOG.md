@@ -1,8 +1,8 @@
 # Extra Tools Pack Change Log
 
-## 2024.1.5 (WIP)
+## 2024.2.1 (2024/06/10)
 * fix plugin error reporter's configuration. It was asking users to open issues on the Extra Icons GitHub repository instead of the Extra Tools Pack one.
-* integrates the latest version of Extra IDE Tweaks (2024.8.7, WIP):
+* integrates the latest version of Extra IDE Tweaks (2024.8.7, 2024/06/10):
   * `File > Trusted Locations` can now also display projects in first-level subdirectories. Disabled by default, you can enable this in settings.
   * improve the performance of `File > Trusted Locations` and run it in a background task. The list of projects found is computed at IDE start then it's cached until next IDE start, or if you refresh it by going to `File > Trusted Locations > Refresh from Disk`.
   * minor code and UI rework.
