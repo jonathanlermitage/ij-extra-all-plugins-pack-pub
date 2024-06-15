@@ -1,9 +1,8 @@
 # Extra Tools Pack Change Log
 
-## 2024.3.1 (WIP)
+## 2024.3.1 (2024/06/15)
 * replace the plugin's custom error reporter by the new IDE [Exception Analyzer](https://plugins.jetbrains.com/docs/marketplace/exception-analyzer.html). This is an easy way to report plugin exceptions from IntelliJ Platform-based products to plugin developers right on JetBrains Marketplace, instead of opening an issue on the plugin's GitHub repository.
-* integrates the latest version of Extra IDE Tweaks (2024.9.1, WIP):
-  * feature: **Favorite Projects**. Go to settings and add projects to favorites, organize them with groups, and gain fast access to your favorite projects via `File > Favorite Projects`.
+* integrates the latest version of Extra IDE Tweaks (2024.9.1, 2024/06/15):
   * schedule GC on local JVMs: kill `jcmd` processes spawned by plugin if they are not responding. This can happen when `jcmd` processes are executed when your computer wakes up from sleep/hibernation.
 
 ## 2024.2.1 (2024/06/10)
