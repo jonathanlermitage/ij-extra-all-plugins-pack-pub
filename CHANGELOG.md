@@ -1,11 +1,13 @@
 # Extra Tools Pack Change Log
 
-## 2024.4.1 (WIP)
-* integrates the latest version of Extra IDE Tweaks (2024.10.1, WIP):
+## 2024.4.1 (2024/06/26)
+* integrates the latest version of Extra IDE Tweaks (2024.10.1, 2024/06/26):
   * feature: **Favorite Projects**. Go to settings and add projects to favorites, organize them with groups, and gain fast access to your favorite projects via `File > Favorite Projects`.
   * settings: table lines can now be reordered.
   * settings: fix NPE when adding empty lines in tables.
   * `File > Trusted Locations`: visual and performance improvements.
+* integrates the latest version of Extra Icons (2024.6.1, 2024/06/26):
+  * partially implement [IDEA-352785](https://youtrack.jetbrains.com/issue/IDEA-352785): provide icons for Kotlin classes, interfaces, enums, etc., without the small "K" badge.
 
 ## 2024.3.2 (2024/06/21)
 * 2024.2 IDEs now bundle the Chinese Language Pack plugin. For these IDEs, plugin's Chinese UI is now applied only if you select the Chinese locale (File > Appearance & Behavior > System Settings > Language and Region). For older IDEs, plugin's Chinese UI is applied if you download and enable the Chinese Language Pack plugin.
@@ -26,4 +28,3 @@
 
 ## 2024.1.4 (2024/06/03)
 * first public release, based on latest versions of Extra Icons (2024.4.2, 2024/05/24) and Extra IDE Tweaks (2024.8.6, 2024/06/03).
-
