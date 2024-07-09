@@ -1,5 +1,18 @@
 # Extra Tools Pack Change Log
 
+## 2024.5.1 (2024/07/08)
+* Extra Tools Pack now integrates all Extra ToolWindow Colorful Icons free and paid features. **If the Extra ToolWindow Colorful Icons plugin is installed in your IDE, please uninstall it, restart your IDE, and keep using Extra Tools Pack.**
+* integrates the latest version of Extra IDE Tweaks (2024.11.1, 2024/07/08):
+  * make the `File > Favorite Projects` and `File > Trusted Locations` menus available during indexing.
+  * Favorite Projects: add a menu item to re-open favorite projects while preserving their order of registration. Useful if you're in the habit of opening several projects systematically in the same order.
+  * improve Tool Windows Label Override: reapply user's rules if IDE has reverted a tool window label (it can happen when enabling AI Assistant).
+  * minor performance improvements and enable future performance improvements for 2024+ IDEs (based on JBR21).
+  * general stability improvements. Some internal concurrent components were not ideally synchronized, which could lead to minor performance degradations. This is now fixed.
+* integrates the latest version of Extra Icons (2024.6.2, 2024/07/08):
+  * minor performance improvements and enable future performance improvements for 2024+ IDEs (based on JBR21).
+  * general stability improvements. Some internal concurrent components were not ideally synchronized, which could lead to minor performance degradations. This is now fixed.
+  * support [Vale](https://vale.sh) `.vale.ini` files.
+
 ## 2024.4.1 (2024/06/26)
 * integrates the latest version of Extra IDE Tweaks (2024.10.1, 2024/06/26):
   * feature: **Favorite Projects**. Go to settings and add projects to favorites, organize them with groups, and gain fast access to your favorite projects via `File > Favorite Projects`.
