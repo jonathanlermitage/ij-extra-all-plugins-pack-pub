@@ -1,11 +1,23 @@
 # Extra Tools Pack Change Log
 
+## 2024.6.1 (2024/07/21)
+* integrates the latest version of Extra IDE Tweaks (2024.12.1, 2024/07/21):
+  * the **Open Editors** tool window is now using [JetBrains' Tree](https://plugins.jetbrains.com/docs/intellij/lists-and-trees.html#jblist-and-tree) implementation instead of JTree, leading to some benefits like a better UI. Drawing a tooltip with complete text of an item if the item doesn't fit into the list box width. It also integrates the **Speed Search** functionality, [similar to Speed Search for Tool Windows](https://www.jetbrains.com/help/idea/speed-search-in-the-tool-windows.html): type text when the Open Editors tool window has focus, and the selection moves to the first item that matches the specified string.
+  * fix `Slow operations are prohibited on EDT` issues when using the Open Editors tool window in an EAP IDE.
+  * minor performance improvements.
+  * fix a license detection [issue](https://github.com/jonathanlermitage/ij-extra-all-plugins-pack-pub/issues/1).
+* integrates the latest version of Extra Icons (2024.6.3, 2024/07/21):
+  * UI improvement (for non-EAP IDEs only): use IDE's file chooser dialog instead of the regular Swing file chooser dialog.
+  * minor performance improvements.
+* integrates the latest version of Extra ToolWindow Colorful Icons (2024.2.1, 2024/07/21):
+  * add colors to the Server icon.
+
 ## 2024.5.1 (2024/07/08)
 * Extra Tools Pack now integrates all Extra ToolWindow Colorful Icons free and paid features. **If the Extra ToolWindow Colorful Icons plugin is installed in your IDE, please uninstall it, restart your IDE, and keep using Extra Tools Pack.**
 * integrates the latest version of Extra IDE Tweaks (2024.11.1, 2024/07/08):
   * make the `File > Favorite Projects` and `File > Trusted Locations` menus available during indexing.
   * Favorite Projects: add a menu item to re-open favorite projects while preserving their order of registration. Useful if you're in the habit of opening several projects systematically in the same order.
-  * improve Tool Windows Label Override: reapply user's rules if IDE has reverted a tool window label (it can happen when enabling AI Assistant).
+  * improve Tool Windows Label Override: reapply user's rules if the IDE has reverted to a tool window label (it can happen when enabling AI Assistant).
   * minor performance improvements and enable future performance improvements for 2024+ IDEs (based on JBR21).
   * general stability improvements. Some internal concurrent components were not ideally synchronized, which could lead to minor performance degradations. This is now fixed.
 * integrates the latest version of Extra Icons (2024.6.2, 2024/07/08):
@@ -40,4 +52,4 @@
   * minor code and UI rework.
 
 ## 2024.1.4 (2024/06/03)
-* first public release, based on latest versions of Extra Icons (2024.4.2, 2024/05/24) and Extra IDE Tweaks (2024.8.6, 2024/06/03).
+* the first public release, based on the latest versions of Extra Icons (2024.4.2, 2024/05/24) and Extra IDE Tweaks (2024.8.6, 2024/06/03).
