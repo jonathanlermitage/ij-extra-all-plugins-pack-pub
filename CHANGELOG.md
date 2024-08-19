@@ -2,10 +2,14 @@
 
 ## 2024.8.1 (WIP)
 * integrates the latest version of Extra IDE Tweaks (2024.13.1, WIP):
+  * fix [#2](https://github.com/jonathanlermitage/intellij-extra-ide-tweaks/issues/2): `Prevent Opening of Sensitive Files` is broken in 2024.2+ IDEs.
   * avoid an invisible error when closing a project or the IDE. This error had no impact other than to pollute the IDE logs.
   * add an option to disable the plugin's features. Use it if you installed Extra Tools pack, but you don't want Extra IDE Tweaks features.
   * improve translations.
   * translate the `Trusted Locations` and `Favorite Projects` menus in Chinese.
+* integrates the latest version of Extra ToolWindow Colorful Icons (2024.4.1, WIP):
+  * add colors to the Writerside icons.
+  * rework the [PsiViewer](https://plugins.jetbrains.com/plugin/227-psiviewer) icon.
 
 ## 2024.7.2 (2024/08/02)
 * **IMPORTANT**: avoid an IDE crash if you try to install both Extra Icons and Extra Tools Pack plugins. Before this fix, you had to delete one of the plugin files manually; otherwise the IDE would fail to start. Now, the IDE will disable both plugins and let you choose which one should be enabled. The best thing to do is to uninstall Extra Icons (and Extra IDE Tweaks and Extra ToolWindow Colorful Icons) first, so you can install Extra Tools Pack without any issues. Sorry for this annoying issue.
