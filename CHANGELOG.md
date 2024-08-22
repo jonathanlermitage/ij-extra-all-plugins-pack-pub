@@ -1,6 +1,6 @@
 # Extra Tools Pack Change Log
 
-## 2024.8.1 (WIP)
+## 2024.9.1 (WIP)
 * integrates the latest version of Extra IDE Tweaks (2024.14.1):
   * make the `Tools > Extra IDE Tweaks...` and `Tools > Plugins...` menu items available while indexing.
   * improve translations: replace "regular UI" with "classic UI".
