@@ -7,7 +7,7 @@
   * make the `Tools > Extra IDE Tweaks...` and `Tools > Plugins...` menu items available while indexing.
   * improve translations: replace "regular UI" with "classic UI".
 * integrates the latest version of Extra Icons (2024.7.1):
-* * improve compatibility when the Python plugin (Ultimate or Community) is installed.
+  * improve compatibility when the Python plugin (Ultimate or Community) is installed.
   * update the Python virtual env icon.
 
 ## 2024.8.1 (2024/08/20)
