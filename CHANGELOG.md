@@ -8,7 +8,7 @@
   * improve translations: replace "regular UI" with "classic UI".
 * integrates the latest version of Extra Icons (2024.7.1):
   * improve compatibility when the Python plugin (Ultimate or Community) is installed.
-  * update the Python virtualenv icon.
+  * rework Python icons (virtualenv, requirements.txt, wheel) and provide icons for the new UI.
 
 ## 2024.8.1 (2024/08/20)
 * integrates the latest version of Extra IDE Tweaks (2024.13.1):
