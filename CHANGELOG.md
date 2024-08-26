@@ -2,8 +2,13 @@
 
 ## 2024.9.1 (WIP)
 * integrates the latest version of Extra IDE Tweaks (2024.14.1):
+  * improve compatibility when the Python plugin (Ultimate or Community) is installed.
+  * **Better Folder Icons**: add an icon for the Python project.
   * make the `Tools > Extra IDE Tweaks...` and `Tools > Plugins...` menu items available while indexing.
   * improve translations: replace "regular UI" with "classic UI".
+* integrates the latest version of Extra Icons (2024.7.1):
+* * improve compatibility when the Python plugin (Ultimate or Community) is installed.
+  * update the Python virtual env icon.
 
 ## 2024.8.1 (2024/08/20)
 * integrates the latest version of Extra IDE Tweaks (2024.13.1):
