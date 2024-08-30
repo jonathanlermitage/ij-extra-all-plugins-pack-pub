@@ -3,6 +3,8 @@
 ## 2024.10.1 (WIP)
 * integrates the latest version of Extra Icons (2024.7.2):
   * avoid some rare NPE errors when importing an old Extra Icons config at project level.
+* integrates the latest version of Extra ToolWindow Colorful Icons (2024.5.1):
+  * add colors to the AI Assistant status icon (status: disabled).
 
 ## 2024.9.1 (2024/08/27)
 * integrates the latest version of Extra IDE Tweaks (2024.14.1):
