@@ -7,6 +7,9 @@
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.5.1):
   * add colors to the AI Assistant status icon (status: disabled).
   * add colors to the Grazie status icon (status: local processing).
+  * rework AI Assistant and Grazie icons color.
+* integrates the latest version of Extra IDE Tweaks (2024.14.2):
+  * minor code rework.
 
 ## 2024.9.1 (2024/08/27)
 * integrates the latest version of Extra IDE Tweaks (2024.14.1):
