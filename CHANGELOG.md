@@ -6,8 +6,8 @@
   * a recent bug in Extra Icons (2024.6.4, 2024/07/29) prevented icon override for files with multiple dots in their name. This is fixed now.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.5.1):
   * add colors to the AI Assistant status icon (status: disabled).
-  * add colors to the Grazie status icon (status: local processing).
-  * rework AI Assistant and Grazie icons color.
+  * add colors to the Grazie Pro status icon (status: local processing).
+  * rework AI Assistant and Grazie Pro icons color. AI Assistant is green when enabled. Grazie Pro is green when using local processing and blue when connected to the cloud. Both are red when disabled or unavailable.
 * integrates the latest version of Extra IDE Tweaks (2024.14.2):
   * minor code rework.
 
