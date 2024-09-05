@@ -7,7 +7,7 @@
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.5.1):
   * add colors to the AI Assistant status icon (status: disabled).
   * add colors to the Grazie Pro status icon (status: local processing).
-  * rework AI Assistant and Grazie Pro icons color. AI Assistant is green when enabled. Grazie Pro is green when using local processing and blue when connected to the cloud. Both are red when disabled or unavailable.
+  * rework AI Assistant and Grazie Pro tool window icons color. AI Assistant is green when enabled. Grazie Pro is green when using local processing and blue when connected to the cloud. Both are red when disabled or unavailable.
 * integrates the latest version of Extra IDE Tweaks (2024.14.2):
   * minor code rework.
 
