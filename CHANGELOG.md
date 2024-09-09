@@ -4,6 +4,7 @@
 * integrates the latest version of Extra Icons (2024.7.2):
   * avoid some rare NPE errors when importing an old Extra Icons config at project level.
   * a recent bug in Extra Icons (2024.6.4, 2024/07/29) prevented icon override for files with multiple dots in their name. This is fixed now.
+  * fix usage of some JDK deprecated APIs.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.5.1):
   * add colors to the AI Assistant status icon (status: disabled).
   * add colors to the Grazie Pro status icon (status: local processing).
