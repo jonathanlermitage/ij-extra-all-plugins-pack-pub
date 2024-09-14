@@ -1,6 +1,8 @@
 # Extra Tools Pack Change Log
 
 ## 2024.10.1 (planned for 2024/09/23)
+* enable compatibility with 2024.3 IDEs.
+* improve compatibility with future IDEs (2024.3+).
 * integrates the latest version of Extra Icons (2024.7.2):
   * avoid some rare NPE errors when importing an old Extra Icons config at project level.
   * a recent bug in Extra Icons (2024.6.4, 2024/07/29) prevented icon override for files with multiple dots in their name. This is fixed now.
