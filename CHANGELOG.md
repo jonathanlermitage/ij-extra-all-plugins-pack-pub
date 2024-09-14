@@ -12,8 +12,9 @@
   * add colors to the Grazie Pro status icon (status: local processing).
   * rework AI Assistant and Grazie Pro tool window icons color. AI Assistant is green when enabled. Grazie Pro is green when using local processing and blue when connected to the cloud. Both are red when disabled or unavailable.
 * integrates the latest version of Extra IDE Tweaks (2024.15.1):
-  * add "Open as Project" to the folder's context menu from the Project tool window. The idea is to implement [IJPL-158161](https://youtrack.jetbrains.com/issue/IJPL-158161).
-  * add the ability to have default Excluded Folders from indexing. There is now a global list of excluded folders. The idea is to implement [IJPL-8363](https://youtrack.jetbrains.com/issue/IJPL-8363).
+  * add **Open as Project** to the folder's context menu from the Project tool window. The idea is to implement [IJPL-158161](https://youtrack.jetbrains.com/issue/IJPL-158161).
+  * add the ability to have **default Excluded Folders** from indexing. There is now a global list of excluded folders. The idea is to implement [IJPL-8363](https://youtrack.jetbrains.com/issue/IJPL-8363).
+  * **Better Tab Names**: add an option to remove the parenthesis after the file name if it's located in the root project or module. Per example, renames "build.gradle.kts (my-module)" to "build.gradle.kts". For now, it works with "build.gradle", "buld.gradle.kts" and "META-INF/plugin.xml" files only.
   * minor code rework.
 
 ## 2024.9.1 (2024/08/27)
