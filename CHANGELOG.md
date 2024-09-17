@@ -1,13 +1,7 @@
 # Extra Tools Pack Change Log
 
 ## 2024.10.2 (WIP)
-* integrates the latest version of Extra Icons (2024.7.3):
-  * fix usage of some JetBrains deprecated APIs. 
-* integrates the latest version of Extra ToolWindow Colorful Icons (2024.5.2):
-  * fix usage of some JetBrains deprecated APIs. 
-* integrates the latest version of Extra IDE Tweaks (2024.15.2):
-  * fix `Prevent Opening of Sensitive Files` showing the file content during a brief instant. 
-  * fix usage of some JetBrains deprecated APIs.
+* fix usage of some JetBrains deprecated APIs.
 
 ## 2024.10.1 (2024/09/17)
 * improve compatibility with future IDEs (2024.3+).
