@@ -1,5 +1,10 @@
 # Extra Tools Pack Change Log
 
+## 2024.11.1 (WIP)
+* integrates the latest version of Extra IDE Tweaks (2024.16.1):
+  * **Better Folder Icons** now supports the Kotlin Multiplatform OS folders from Extra Icons.
+  * minor performance optimization.
+
 ## 2024.10.2 (2024/09/23)
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2024.3+).
 * integrates the latest version of Extra IDE Tweaks (2024.15.2):
