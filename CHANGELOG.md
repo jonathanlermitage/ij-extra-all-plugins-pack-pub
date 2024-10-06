@@ -1,6 +1,8 @@
 # Extra Tools Pack Change Log
 
 ## 2024.11.1 (WIP)
+* integrates the latest version of Extra Icons (2024.8.1):
+  * support `Makefile` files.
 * integrates the latest version of Extra IDE Tweaks (2024.16.1):
   * **Better Folder Icons** now supports the Kotlin Multiplatform OS folders from Extra Icons.
   * minor performance optimization.
