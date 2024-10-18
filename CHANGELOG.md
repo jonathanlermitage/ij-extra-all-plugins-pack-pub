@@ -3,6 +3,7 @@
 ## 2024.11.1 (WIP)
 * integrates the latest version of Extra Icons (2024.8.1):
   * support `Makefile` files.
+  * UI reworks in the settings panel.
   * minor code rework.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.5.3):
   * remove the unused third-party library Apache Commons IO.
