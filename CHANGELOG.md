@@ -1,6 +1,6 @@
 # Extra Tools Pack Change Log
 
-## 2024.11.1 (WIP)
+## 2024.11.1 (2024/10/21)
 * integrates the latest version of Extra Icons (2024.8.1):
   * support `Makefile` files.
   * UI reworks in the settings panel.
