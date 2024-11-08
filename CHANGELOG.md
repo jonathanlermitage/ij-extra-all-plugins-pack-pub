@@ -9,7 +9,7 @@
   * add colors to the Persistence tool window icon.
   * add colors to the Android Resources Manager tool window icon.
 * integrates the latest version of Extra IDE Tweaks (2024.17.1):
-  * **Properties** context menu: display file or folder properties (like size, number of containing files, etc.). 
+  * **Properties** context menu: display file or folder properties (like size, number of files, etc.). 
 
 ## 2024.11.2 (2024/10/29)
 * fix potential component ID collisions when installing this plugin alongside other obfuscated plugins.
