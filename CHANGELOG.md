@@ -1,5 +1,16 @@
 # Extra Tools Pack Change Log
 
+## 2024.12.1 (WIP)
+* integrates the latest version of Extra Icons (2024.9.1):
+  * support Embedded Open Type, TrueType Font and Web Open Font Format font files.
+* integrates the latest version of Extra ToolWindow Colorful Icons (2024.6.1):
+  * rework the Hierarchy toolbar icon.
+  * rework the [Extra IDE Tweaks](https://plugins.jetbrains.com/plugin/23927-extra-ide-tweaks) Open Editors tool window icon.
+  * add colors to the Persistence tool window icon.
+  * add colors to the Android Resources Manager tool window icon.
+* integrates the latest version of Extra IDE Tweaks (2024.17.1):
+  * **Properties** context menu: display file or folder properties (like size, number of containing files, etc.). 
+
 ## 2024.11.2 (2024/10/29)
 * fix potential component ID collisions when installing this plugin alongside other obfuscated plugins.
 * code rework: replace usage of obsolete JetBrains APIs, improving compatibility with future IDEs.
