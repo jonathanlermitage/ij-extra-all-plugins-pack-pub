@@ -2,13 +2,15 @@
 
 ## 2024.12.1 (WIP)
 * integrates the latest version of Extra Icons (2024.9.1):
-  * support Embedded Open Type, TrueType Font and Web Open Font Format font files.
+  * support Embedded Open Type, TrueType Font, and Web Open Font Format font files.
+  * rework the `*.env` file icon.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.6.1):
   * rework the Hierarchy toolbar icon.
   * rework the [Extra IDE Tweaks](https://plugins.jetbrains.com/plugin/23927-extra-ide-tweaks) Open Editors tool window icon.
   * add colors to the Persistence tool window icon.
   * add colors to the Android Resources Manager tool window icon.
   * add colors to the WriterSide Collapse All and Expand All icons in the WriterSide tool window. For now, this works with the New UI only. The Classic UI is affected by a bug (see [WRS-6459](https://youtrack.jetbrains.com/issue/WRS-6459)).
+  * fix support of the editor tab pinned icon. No longer overrides the WriterSide "Pin the Preview" icon.
 * integrates the latest version of Extra IDE Tweaks (2024.17.1):
   * **Properties** context menu: display file or folder properties (like size, number of files, etc.). 
 
@@ -82,7 +84,7 @@
 ## 2024.7.1 (2024/07/29)
 * integrates the latest version of Extra Icons (2024.6.4, 2024/07/29):
   * implement [#184](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/discussions/184):  support `.gitea` folders and `*.yml` files in `workflows` subdirectories.
-  * fix [#183](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/183): custom icons should apply to files and folders only, not to class members like properties, methods and nested classes.
+  * fix [#183](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/183): custom icons should apply to files and folders only, not to class members like properties, methods, and nested classes.
   * fix [#185](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/185): `requirements.txt` should have a custom icon in PyCharm.
   * add more alternative icons for Java Records.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.3.1, 2024/07/29):
