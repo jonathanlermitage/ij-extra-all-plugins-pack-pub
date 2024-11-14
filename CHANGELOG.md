@@ -2,8 +2,10 @@
 
 ## 2024.12.1 (WIP)
 * integrates the latest version of Extra Icons (2024.9.1):
+  * fix [#190](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/190): Extra Icons not configurable at project level. This was a regression from the previous plugin version. Sorry for the inconvenience.
   * support Embedded Open Type, TrueType Font, and Web Open Font Format font files.
   * add more alternative icons for `*.cmd`, `*.bat`, Powershell `*.ps1`, Bash `*.sh` files.
+  * support Bash (without `.sh` extension) files.
   * rework the `*.env` file icon.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.6.1):
   * rework the Hierarchy toolbar icon.
