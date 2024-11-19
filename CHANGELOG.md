@@ -1,5 +1,11 @@
 # Extra Tools Pack Change Log
 
+## 2024.12.2 (2024/11/19)
+* integrates the latest version of Extra ToolWindow Colorful Icons (2024.6.2):
+  * hopefully fix `com.intellij.diagnostic.PluginException: Cannot init component state (...)` errors.
+* integrates the latest version of Extra IDE Tweaks (2024.17.2):
+  * hopefully fix `com.intellij.diagnostic.PluginException: Cannot init component state (...)` errors.
+
 ## 2024.12.1 (2024/11/16)
 * integrates the latest version of Extra Icons (2024.9.1):
   * fix [#190](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/190): Extra Icons not configurable at project level. This was a regression from the previous plugin version. Sorry for the inconvenience.
