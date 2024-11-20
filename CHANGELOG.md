@@ -1,5 +1,10 @@
 # Extra Tools Pack Change Log
 
+## 2024.13.1 (WIP)
+* integrates the latest version of Extra Icons (2024.10.1):
+  * implement [#191](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/191): support `eslint.config.js` files.
+  * implement [#191](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/191): support various [Stylelint](https://stylelint.io/user-guide/configure) files.
+
 ## 2024.12.2 (2024/11/19)
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.6.2):
   * hopefully fix `com.intellij.diagnostic.PluginException: Cannot init component state (...)` errors.
