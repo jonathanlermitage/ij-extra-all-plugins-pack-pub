@@ -4,7 +4,7 @@
 * integrates the latest version of Extra Icons (2024.10.1):
   * implement [#191](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/191): support `eslint.config.js` files.
   * implement [#191](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/191): support various [Stylelint](https://stylelint.io/user-guide/configure) files.
-* integrates the latest version of Extra IDE Tweaks (WIP):
+* integrates the latest version of Extra IDE Tweaks (2024.18.1):
   * **Better Folder Icons** now supports the `(.)log(s)` folders from Extra Icons.
 
 ## 2024.12.2 (2024/11/19)
