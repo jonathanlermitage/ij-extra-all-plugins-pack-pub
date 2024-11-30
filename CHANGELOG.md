@@ -2,12 +2,17 @@
 
 ## 2024.13.1 (WIP)
 * integrates the latest version of Extra Icons (2024.10.1):
+  * fix [#192](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/192): custom icons not working in Explorer tool window in Rider for C# project.
   * implement [#191](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/191): support `eslint.config.js` files.
   * implement [#191](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/191): support various [Stylelint](https://stylelint.io/user-guide/configure) files.
+  * update the plugin description with links to the online documentation.
+  * the online documentation has been completely rewritten.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.6.3):
   * minor UI reworks in the settings panel.
+  * update the plugin description with links to the online documentation.
 * integrates the latest version of Extra IDE Tweaks (2024.18.1):
   * **Better Folder Icons** now supports the `(.)log(s)` folders from Extra Icons.
+  * update the plugin description with links to the online documentation.
 
 ## 2024.12.2 (2024/11/19)
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.6.2):
