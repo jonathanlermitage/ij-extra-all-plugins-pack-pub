@@ -10,6 +10,7 @@
   * minor UI reworks in the settings panel.
 * integrates the latest version of Extra IDE Tweaks (2024.18.1):
   * **Better Folder Icons** now supports the `(.)log(s)` folders from Extra Icons.
+  * **Prevent Opening of Sensitive Files** now supports read-only files.
 
 ## 2024.12.2 (2024/11/19)
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.6.2):
