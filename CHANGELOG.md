@@ -1,16 +1,22 @@
 # Extra Tools Pack Change Log
 
-## 2024.13.1 (WIP)
+## 2025.1.1 (WIP)
+* integrates the latest version of Extra Icons (2025.1.1):
+  * you can now add to Actions in menus. For example, add an icon to the `right-click > Git > Rebase...` action. You can also overwrite an action's icon if it already has one. For icons associated with intermediate menus, JetBrains does not allow that. If you're interested in this missing feature, please upvote [IDEA-364676](https://youtrack.jetbrains.com/issue/IDEA-364676).
+
+## 2024.13.1 (2024/12/13)
 * integrates the latest version of Extra Icons (2024.10.1):
   * fix [#192](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/192): custom icons not working in Explorer tool window in Rider for C# project.
   * implement [#191](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/191): support `eslint.config.js` files.
   * implement [#191](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/191): support various [Stylelint](https://stylelint.io/user-guide/configure) files.
   * the [online documentation](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/) has been completely rewritten.
+  * minor UI reworks in the settings panel.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.6.3):
   * minor UI reworks in the settings panel.
+  * minor code reworks
 * integrates the latest version of Extra IDE Tweaks (2024.18.1):
   * **Better Folder Icons** now supports the `(.)log(s)` folders from Extra Icons.
-  * **Prevent Opening of Sensitive Files** now supports read-only files.
+  * **Prevent Opening of Sensitive Files** now supports read-only files (2024.2+ IDEs only).
 
 ## 2024.12.2 (2024/11/19)
 * integrates the latest version of Extra ToolWindow Colorful Icons (2024.6.2):
