@@ -3,13 +3,13 @@
 ## 2025.1.1 (WIP)
 * integrates the latest version of Extra Icons (2025.1.1):
   * you can now add icons to Actions in menus. For example, add an icon to the `right-click > Git > Rebase...` action. You can also overwrite an action's icon if it already has one. For icons associated with intermediate menus, JetBrains does not allow that. If you're interested in this missing feature, please upvote [IDEA-364676](https://youtrack.jetbrains.com/issue/IDEA-364676).
-* integrates the latest version of Extra IDE Tweaks (2025.1.1):
-  * disable the **Always Excluded Folders** feature when loading projects with a huge number of modules (like IntelliJ Community sources, which has 1300 modules). The module limit is set to 20 to avoid any performance degradation. A future update will rework this feature.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.1):
   * implement [#6](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/6): add colors to the `Show History` icon.
   * add colors to the `Bazel` tool window icon.
   * rework the `Show Diff` icon when using the New UI.
-  * FYI, some colored icons for the New UI are still using icons from the Classic UI icons set (they use bolder strokes). I am reworking all the New UI icons bundled with this plugin. Visual integration with the New UI should be improved in the coming weeks. 
+  * FYI, some colored icons for the New UI are still using icons from the Classic UI icons set (they use bolder strokes). I am reworking all the New UI icons bundled with this plugin. Visual integration with the New UI should be improved in the coming weeks.
+* integrates the latest version of Extra IDE Tweaks (2025.1.1):
+  * disable the **Always Excluded Folders** feature when loading projects with a huge number of modules (like IntelliJ Community sources, which has 1300 modules). The module limit is set to 20 to avoid any performance degradation. A future update will rework this feature.
 
 ## 2024.13.1 (2024/12/13)
 * integrates the latest version of Extra Icons (2024.10.1):
