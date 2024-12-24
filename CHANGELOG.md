@@ -20,7 +20,7 @@
   * rework the `Services` icon when using the New UI.
   * rework the `Show Diff` icon when using the New UI.
   * rework the `Writerside` icon when using the New UI.
-  * FYI, some colored icons for the New UI are still using icons from the Classic UI icons set (they use bolder strokes). I am reworking all the New UI icons bundled with this plugin. Visual integration with the New UI should be improved in the coming weeks. Thank you for your support and patience.
+  * FYI, some colored icons for the New UI are still using icons from the Classic UI icons set (they use bolder strokes). I am reworking all the New UI icons bundled with this plugin. Visual integration with the New UI should be improved in the coming weeks. I will also try to implement an intermediate icons set that would offer New UI icons with bolder strokes (to improve readability for some users). Thank you for your support and patience.
 * integrates the latest version of Extra IDE Tweaks (2025.1.1):
   * disable the `Always Excluded Folders` feature when loading projects with a huge number of modules (like IntelliJ Community sources, which has 1300 modules). The module limit is set to 20 to avoid any performance degradation. A future update will rework this feature.
   * rework the `Open Editors` tool window icon.
