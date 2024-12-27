@@ -11,6 +11,7 @@
 * integrates the latest version of Extra IDE Tweaks (2025.1.1):
   * disable the `Always Excluded Folders` feature when loading projects with a huge number of modules (like IntelliJ Community sources, which has 1300 modules). The module limit is set to 20 to avoid any performance degradation. A future update will rework this feature.
   * rework the `Open Editors` tool window icon.
+  * minor code rework.
 
 ## 2024.13.1 (2024/12/13)
 * integrates the latest version of Extra Icons (2024.10.1):
