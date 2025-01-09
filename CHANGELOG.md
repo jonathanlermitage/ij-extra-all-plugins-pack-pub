@@ -6,9 +6,10 @@
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.1):
   * implement [#6](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/6): add colors to the `Show History` icon.
   * add colors to the `Bazel` tool window icon.
-  * rework the `Back`, `Bookmarks`, `Branch`, `Collapse`, `Collapse All`, `Changes` (VCS), `Commit`, `Debug`, `Expand`, `Expand All`, `Forward`, `Gradle`, `Learn` (Feature Trainer), `Maven`, `Merge`, `Redo`, `Run`, `Problems`, `Push`, `Reset`, `Rollback`, `Services`, `Show Diff`, `Terminal`, `Undo`, `Update`, and `Writerside` tool window icons when using the New UI.
+  * rework the `Add`, `Back`, `Bookmarks`, `Branch`, `Collapse`, `Collapse All`, `Changes` (VCS), `Commit`, `Debug`, `Expand`, `Expand All`, `Forward`, `Gradle`, `Learn` (Feature Trainer), `Maven`, `Merge`, `Redo`, `Remove`, `Run`, `Problems`, `Push`, `Reset`, `Rollback`, `Services`, `Show Diff`, `Terminal`, `Undo`, `Update`, and `Writerside` tool window icons when using the New UI.
   * add colors to the `Chevron Up` and the `Chevron Down` normal and large icons.
   * several colored icons for the New UI were still using icons from the Classic UI icons set (they used bolder strokes). I've reworked most of them and will continue to do so over the coming weeks. Visual integration with the New UI should be improved. I will also try to implement an intermediate icons set that would offer New UI icons (still colored) with bolder strokes to improve readability for some users (for people with poor/old eyes, like me ^_^). Thank you for your support and patience.
+  * some icons now have variants, similar to icon alternatives from Extra Icons.
 * integrates the latest version of Extra IDE Tweaks (2025.1.1):
   * disable the `Always Excluded Folders` feature when loading projects with a huge number of modules (like IntelliJ Community sources, which has 1300 modules). The module limit is set to 20 to avoid any performance degradation. A future update will rework this feature.
   * rework the `Open Editors` tool window icon.
