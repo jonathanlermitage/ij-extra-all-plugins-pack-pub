@@ -1,6 +1,6 @@
 # Extra Tools Pack Change Log
 
-## 2025.1.1 (WIP)
+## 2025.1.1 (planned for 2025/01/20)
 * integrates the latest version of Extra Icons (2025.1.1):
   * you can now add icons to Actions in menus. For example, add an icon to the `right-click > Git > Rebase...` action. You can also overwrite an action's icon if it already has one. For icons associated with intermediate menus, JetBrains does not allow that. If you're interested in this missing feature, please upvote [IDEA-364676](https://youtrack.jetbrains.com/issue/IDEA-364676).
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.1):
@@ -9,7 +9,8 @@
   * rework the `Add`, `Back`, `Bookmarks`, `Branch`, `Build`, `Collapse`, `Collapse All`, `Changes` (VCS), `Commit`, `Database`, `Database Changes`, `Debug`, `Endpoints`, `Expand`, `Expand All`, `Forward`, `Gradle`, `Learn` (Feature Trainer), `Maven`, `Merge`, `Profile`, `Redo`, `Remove`, `Run`, `Problems`, `Push`, `Reset`, `Rollback`, `Services`, `Show Diff`, `Spring`, `SQL Generator`, `Terminal`, `Undo`, `Update`, and `Writerside` tool window icons when using the New UI.
   * add colors to the `Chevron Up` and the `Chevron Down` normal and large icons.
   * some icons now have variants, similar to [alternative icons from Extra Icons](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/extra-icons-plugin-icons.html#alternative-icons).
-  * several colored icons for the New UI were still using icons from the Classic UI icons set (they used bolder strokes). I've reworked most of them and will continue to do so over time. Visual integration with the New UI should be improved. I will also try to implement an intermediate icons set (or just *alternative icons*, I'm not sure yet) that would offer New UI icons (still colored) with bolder strokes to improve readability for some users. Thank you for your support and patience.
+  * the New UI theme has been reworked, and a third theme has been added, which is a mix of the Classic and the New UI themes.
+  * improve the Chinese localization.
 * integrates the latest version of Extra IDE Tweaks (2025.1.1):
   * disable the `Always Excluded Folders` feature when loading projects with a huge number of modules (like IntelliJ Community sources, which has 1300 modules). The module limit is set to 20 to avoid any performance degradation. A future update will rework this feature.
   * rework the `Open Editors` tool window icon.
