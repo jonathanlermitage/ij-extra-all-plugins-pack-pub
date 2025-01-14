@@ -9,7 +9,7 @@
   * rework the `Add`, `Back`, `Bookmarks`, `Branch`, `Build`, `Collapse`, `Collapse All`, `Changes` (VCS), `Commit`, `Database`, `Database Changes`, `Debug`, `Endpoints`, `Expand`, `Expand All`, `Forward`, `Gradle`, `Learn` (Feature Trainer), `Maven`, `Merge`, `Profile`, `Redo`, `Remove`, `Run`, `Problems`, `Push`, `Reset`, `Rollback`, `Services`, `Show Diff`, `Spring`, `SQL Generator`, `Terminal`, `Undo`, `Update`, and `Writerside` tool window icons when using the New UI.
   * add colors to the `Chevron Up` and the `Chevron Down` normal and large icons.
   * some icons now have variants, similar to [alternative icons from Extra Icons](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/extra-icons-plugin-icons.html#alternative-icons).
-  * the New UI theme has been reworked, and a third theme has been added, which is a mix of the Classic and the New UI themes.
+  * the New UI theme has been reworked, and a third theme has been added, which looks like the New UI theme with more visible borders.
   * improve the Chinese localization.
 * integrates the latest version of Extra IDE Tweaks (2025.1.1):
   * disable the `Always Excluded Folders` feature when loading projects with a huge number of modules (like IntelliJ Community sources, which has 1300 modules). The module limit is set to 20 to avoid any performance degradation. A future update will rework this feature.
