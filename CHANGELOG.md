@@ -1,8 +1,9 @@
 # Extra Tools Pack Change Log
 
-## 2025.1.1 (planned for 2025/01/20)
+## 2025.1.1 (2025/01/21)
 * integrates the latest version of Extra Icons (2025.1.1):
   * you can now add icons to Actions in menus. For example, add an icon to the `right-click > Git > Rebase...` action. You can also overwrite an action's icon if it already has one. For icons associated with intermediate menus, JetBrains does not allow that. If you're interested in this missing feature, please upvote [IDEA-364676](https://youtrack.jetbrains.com/issue/IDEA-364676).
+  * rework how the Chinese language is detected. This should avoid rare scenarios where the Chinese localization of the plugin was loaded on non-Chinese computers.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.1):
   * implement [#6](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/6): add colors to the `Show History` icon.
   * add colors to the `Bazel` tool window icon.
@@ -11,6 +12,7 @@
   * some icons now have variants, similar to [alternative icons from Extra Icons](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/extra-icons-plugin-icons.html#alternative-icons).
   * the New UI theme has been reworked, and a third theme "New UI Remix" has been added, which looks like the New UI theme with more visible lines.
   * improve the Chinese localization.
+  * rework how the Chinese language is detected. This should avoid rare scenarios where the Chinese localization of the plugin was loaded on non-Chinese computers.
 * integrates the latest version of Extra IDE Tweaks (2025.1.1):
   * disable the `Always Excluded Folders` feature when loading projects with a huge number of modules (like IntelliJ Community sources, which has 1300 modules). The module limit is set to 20 to avoid any performance degradation. A future update will rework this feature.
   * rework the `Open Editors` tool window icon.
