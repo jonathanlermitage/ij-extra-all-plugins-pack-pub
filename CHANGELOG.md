@@ -18,6 +18,7 @@
   * rework the `Open Editors` tool window icon.
   * improve the search field at the top of the config panel. This should work much better.
   * minor code rework.
+  * rework how the Chinese language is detected. This should avoid rare scenarios where the Chinese localization of the plugin was loaded on non-Chinese computers.
 * [documentation](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/).
 
 ## 2024.13.1 (2024/12/13)
