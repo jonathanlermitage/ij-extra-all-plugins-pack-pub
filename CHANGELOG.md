@@ -4,7 +4,8 @@
 * improve the plugin's compatibility range. The minimal IDE version is now 2023.3.1 instead of 2024.1.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.4):
   * [#9](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/9): add colors to the Coverage tool window icon (New UI).
-  * [#8](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/8): add colors to the Notifications tool window icon (New UI).
+  * [#8](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/8): add colors to the Notifications tool window icon.
+  * improve the way IDE icons are replaced by custom icons, especially when using the New UI and deactivating the Compact Mode.
 
 ## 2025.1.2 (2025/01/27)
 * update the plugin compatibility list: avoid collision with the new Extra ToolWindow Colorful Icons Lifetime plugin.
