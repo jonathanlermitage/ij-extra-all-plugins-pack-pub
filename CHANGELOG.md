@@ -5,7 +5,7 @@
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.2.1):
   * settings UI: add a search field to filter the icon table. This should help you find icons to (de)activate.
   * improve the way IDE icons are replaced by custom icons, especially when using the New UI and deactivating the Compact Mode.
-  * [#9](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/9): add colors to the Coverage tool window icon (New UI).
+  * [#9](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/9): add colors to the Coverage tool window icon.
   * [#8](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/8): add colors to the Notifications tool window icon.
 
 ## 2025.1.2 (2025/01/27)
