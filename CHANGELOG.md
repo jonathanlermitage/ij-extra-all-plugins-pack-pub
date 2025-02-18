@@ -1,10 +1,10 @@
 # Extra Tools Pack Change Log
 
-## 2025.2.1 (WIP)
+## 2025.1.2 (WIP)
 * improve the plugin's compatibility range. The minimal IDE version is now 2023.3.1 instead of 2024.1.
 * integrates the latest version of Extra Icons (2025.1.2):
   * fix [#195](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/195): some custom icons are not working in Explorer in Rider.
-* integrates the latest version of Extra ToolWindow Colorful Icons (2025.2.1):
+* integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.4):
   * settings UI: add a search field to filter the icon table. This should help you find icons to (de)activate.
   * improve the way IDE icons are replaced by custom icons, especially when using the New UI and deactivating the Compact Mode.
   * [#9](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/9): add colors to the Coverage tool window icon.
