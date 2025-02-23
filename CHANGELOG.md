@@ -4,7 +4,7 @@
 * improve the plugin's compatibility range. The minimal IDE version is now 2023.3.1 instead of 2024.1.
 * integrates the latest version of Extra Icons (2025.1.2):
   * fix [#195](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/195): some custom icons are not working in Explorer in Rider.
-  * partially fix [#196](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/196): using Presentation Mode does not resize user icons properly. This is a partial fix as it works for SVG files only. This issue still affects PNG files.
+  * partially fix [#196](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/196): using Presentation Mode does not resize user icons properly. This is a partial fix as it works for SVG user files only. This issue still affects PNG user files.
   * the zoom level set in the IDE's accessibility options is now applied to SVG user icons. This will fix potential bad rendering (wrong scale) of SVG user icons when using any zoom level.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.4):
   * implement [#8](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/8): add colors to the Notifications tool window icon.
