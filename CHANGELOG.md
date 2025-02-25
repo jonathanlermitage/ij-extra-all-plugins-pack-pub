@@ -1,6 +1,6 @@
 # Extra Tools Pack Change Log
 
-## 2025.1.3 (2025/01/25)
+## 2025.1.3 (2025/02/25)
 * improve the plugin's compatibility range. The minimal IDE version is now 2023.3.1 instead of 2024.1.
 * integrates the latest version of Extra Icons (2025.1.2):
   * fix [#195](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/195): some custom icons are not working in Explorer in Rider.
