@@ -3,6 +3,8 @@
 ## 2025.1.4 (WIP)
 * integrates the latest version of Extra Icons (2025.1.3):
   * fix [#200](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/200): error `Class initialization must not depend on services. Consider using instance of the service on-demand instead.` may occur on IDE start with IntelliJ 2025.1 EAP (251.22821.72).
+* integrates the latest version of Extra IDE Tweaks (2025.1.3):
+  * prevent a `Slow operations are prohibited on EDT` warning on project loading with IntelliJ 2025.1 EAP when the `Always Excluded Folders` feature is enabled.
 
 ## 2025.1.3 (2025/02/25)
 * improve the plugin's compatibility range. The minimal IDE version is now 2023.3.1 instead of 2024.1.
