@@ -4,6 +4,9 @@
 * settings can now be loaded and saved by the **Backup and Sync** plugin.
 * integrates the latest version of Extra Icons (2025.1.3):
   * fix [#200](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/200): error `Class initialization must not depend on services. Consider using instance of the service on-demand instead.` may occur on IDE start with IntelliJ 2025.1 EAP (251.22821.72).
+  * implement [202](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/202): support `xunit.runner.json` files.
+  * implement [203](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/203): support `log4net.config` files.
+  * support `.sdkmanrc` files.
 * integrates the latest version of Extra IDE Tweaks (2025.1.3):
   * prevent a `Slow operations are prohibited on EDT` warning on project loading with IntelliJ 2025.1 EAP when the `Always Excluded Folders` feature is enabled.
 
