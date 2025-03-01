@@ -10,6 +10,7 @@
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.5):
   * implement [#10](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/10): add colors to the GitHub Copilot tool window and status bar icons (welcome, Copilot, chat, connection status).
   * rework the Notifications tool window icon. The purple icon turned orange when selected.
+  * improve the Chinese localization.
 * integrates the latest version of Extra IDE Tweaks (2025.1.3):
   * prevent a `Slow operations are prohibited on EDT` warning on project loading with IntelliJ 2025.1 EAP when the `Always Excluded Folders` feature is enabled.
 
