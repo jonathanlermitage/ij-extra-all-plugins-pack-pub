@@ -7,12 +7,16 @@
   * implement [202](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/202): support `xunit.runner.json` files.
   * implement [203](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/203): support `log4net.config` files.
   * support `.sdkmanrc` files.
+  * various code reworks.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.5):
   * implement [#10](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/10): add colors to the GitHub Copilot tool window and status bar icons (welcome, Copilot, chat, connection status).
   * rework the Notifications tool window icon. The purple icon turned orange when selected.
+  * add some alternative icons for the Notifications tool window icon.
   * improve the Chinese localization.
+  * various code reworks.
 * integrates the latest version of Extra IDE Tweaks (2025.1.3):
   * prevent a `Slow operations are prohibited on EDT` warning on project loading with IntelliJ 2025.1 EAP when the `Always Excluded Folders` feature is enabled.
+  * various code reworks.
 
 ## 2025.1.3 (2025/02/25)
 * improve the plugin's compatibility range. The minimal IDE version is now 2023.3.1 instead of 2024.1.
