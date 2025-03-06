@@ -7,6 +7,7 @@
   * implement [202](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/202): support `xunit.runner.json` files.
   * implement [203](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/203): support `log4net.config` files.
   * support `.sdkmanrc` files.
+  * settings UI: improve the User Icons table. If no user icon has yet been registered, display a message in the center of the table and a convenient way to add a first icon. Similar thing for the New Icon dialog, when no Condition has yet been registered.
   * various code reworks.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.5):
   * implement [#10](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/10): add colors to the GitHub Copilot tool window and status bar icons (welcome, Copilot, chat, connection status).
