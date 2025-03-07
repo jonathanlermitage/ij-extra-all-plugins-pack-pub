@@ -13,6 +13,7 @@
   * implement [#10](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/10): add colors to the GitHub Copilot tool window and status bar icons (welcome, Copilot, chat, connection status).
   * rework the Notifications tool window icon. The purple icon turned orange when selected.
   * add some alternative icons for the Notifications tool window icon.
+  * add an alternative icon for the Structure tool window icon (the new icon introduced by IntelliJ 2025.1).
   * improve the Chinese localization.
   * various code reworks.
 * integrates the latest version of Extra IDE Tweaks (2025.1.3):
