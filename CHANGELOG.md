@@ -14,6 +14,7 @@
   * rework the Notifications tool window icon. The purple icon turned orange when selected.
   * add some alternative icons for the Notifications tool window icon.
   * add an alternative icon for the Structure tool window icon (the new icon introduced by IntelliJ 2025.1).
+  * add colors to the Power Save Mode icons (status bar and inspection).
   * improve the Chinese localization.
   * various code reworks.
 * integrates the latest version of Extra IDE Tweaks (2025.1.3):
