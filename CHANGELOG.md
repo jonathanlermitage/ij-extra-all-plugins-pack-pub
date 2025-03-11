@@ -15,6 +15,8 @@
   * add some alternative icons for the Notifications tool window icon.
   * add an alternative icon for the Structure tool window icon (the new icon introduced by IntelliJ 2025.1).
   * add colors to the Power Save Mode icons (status bar and inspection).
+  * add colors to the (Android Studio) Device Explorer, Device Manager, and App Quality Insights tool window icons.
+  * add colors to the (Android Studio, Gemini) AI Code Completion status icon.
   * improve the Chinese localization.
   * various code reworks.
 * integrates the latest version of Extra IDE Tweaks (2025.1.3):
