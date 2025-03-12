@@ -18,7 +18,7 @@
   * add colors to the (Android Studio) Device Explorer, Device Manager, and App Quality Insights tool window icons.
   * add colors to the (Android Studio, Gemini) AI Code Completion status icon.
   * add colors to the JetBrains Junie tool window icon.
-  * important rework: better support of icon override for the icons coming from third-party plugins.
+  * important code rework: better support of icon override for the icons coming from third-party plugins.
   * improve the Chinese localization.
   * various code reworks.
 * integrates the latest version of Extra IDE Tweaks (2025.1.3):
