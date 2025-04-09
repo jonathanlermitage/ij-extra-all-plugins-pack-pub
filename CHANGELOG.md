@@ -5,6 +5,8 @@
   * fix [#193](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/193): support NestJS `*.resolver.(js|ts)` files.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.6):
   * rework the Make tool window icon (New UI).
+* integrates the latest version of Extra IDE Tweaks (2025.1.4):
+  * UI fixes in the plugin's settings panel.
 
 ## 2025.1.4 (2025/03/17)
 * settings can now be loaded and saved by the **Backup and Sync** plugin.
