@@ -6,6 +6,7 @@
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.6):
   * implement [#12](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/12): add colors to some tool window icons in various plugins for Microsoft Azure.
   * rework the Make tool window icon (New UI).
+  * improve support of third-party plugins.
 * integrates the latest version of Extra IDE Tweaks (2025.1.4):
   * UI fixes in the plugin's settings panel.
 
