@@ -1,8 +1,14 @@
 # Extra Tools Pack Change Log
 
-## 2025.1.5 (WIP)
+## 2025.1.6 (WIP)
+* integrates the latest version of Extra Icons (2025.1.5):
+  * additional fix for [#200](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/200): error `Class initialization must not depend on services. Consider using instance of the service on-demand instead.`.
+  * fix license management when using Android Studio. Android Studio Meerkat 2024.3.1 Patch 2 may fail to validate Extra Icons' license, even if this license is valid. A workaround is now applied to prevent this issue.
+
+## 2025.1.5 (2025/04/14)
 * integrates the latest version of Extra Icons (2025.1.4):
   * fix [#193](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/193): support NestJS `*.resolver.(js|ts)` files.
+  * minor code reworks.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.6):
   * implement [#12](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/12): add colors to some tool window icons in various plugins for Microsoft Azure.
   * rework the Make tool window icon (New UI).
