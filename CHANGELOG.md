@@ -2,7 +2,7 @@
 
 ## 2025.1.6 (WIP)
 * integrates the latest version of Extra Icons (2025.1.5):
-  * additional fix for [#200](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/200): error `Class initialization must not depend on services. Consider using instance of the service on-demand instead.`.
+  * additional fix for [#200](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/200): error `Class initialization must not depend on services. Consider using instance of the service on-demand instead.` may occur on IDE start with IntelliJ 2025.1.
 
 ## 2025.1.5 (2025/04/14)
 * integrates the latest version of Extra Icons (2025.1.4):
