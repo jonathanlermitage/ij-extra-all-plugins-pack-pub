@@ -1,8 +1,13 @@
 # Extra Tools Pack Change Log
 
-## 2025.1.6 (WIP)
+## 2025.1.6 (2025/05/06)
 * integrates the latest version of Extra Icons (2025.1.5):
-  * additional fix for [#200](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/200): error `Class initialization must not depend on services. Consider using instance of the service on-demand instead.` may occur on IDE start with IntelliJ 2025.1.
+  * additional fix for [#200](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/200): error `Class initialization must not depend on services. Consider using instance of the service on-demand instead` may occur on IDE start with IntelliJ 2025.1.
+* integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.7):
+  * fix for error `Class initialization must not depend on services. Consider using instance of the service on-demand instead`.
+  * various minor code reworks.
+* integrates the latest version of Extra IDE Tweaks (2025.1.5):
+  * fix for error `Class initialization must not depend on services. Consider using instance of the service on-demand instead`.
 
 ## 2025.1.5 (2025/04/14)
 * integrates the latest version of Extra Icons (2025.1.4):
@@ -18,7 +23,7 @@
 ## 2025.1.4 (2025/03/17)
 * settings can now be loaded and saved by the **Backup and Sync** plugin.
 * integrates the latest version of Extra Icons (2025.1.3):
-  * fix [#200](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/200): error `Class initialization must not depend on services. Consider using instance of the service on-demand instead.` may occur on IDE start with IntelliJ 2025.1 EAP (251.22821.72).
+  * fix [#200](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/200): error `Class initialization must not depend on services. Consider using instance of the service on-demand instead` may occur on IDE start with IntelliJ 2025.1 EAP (251.22821.72).
   * implement [#202](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/202): support `xunit.runner.json` files.
   * implement [#203](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/203): support `log4net.config` files.
   * implement [#204](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/204): support Stryker Mutator `stryker-config.json` and `stryker-config.yaml` files.
