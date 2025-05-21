@@ -10,7 +10,8 @@
   * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.2+).
   * [#13](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/13): rework and add colors to the Hierarchy tool window icon.
   * [#14](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/14): add colors to the AI Assistant main toolbar icon.
-  * rework the Python tool window icon and add alternative icons.
+  * add colors to the Kubernetes tool window icon.
+  * rework the Python Console tool window icon and add alternative icons.
   * rework the Python Packages window icon and add alternative icons.
   * optimize the plugin size on disk by reorganizing resource files.
 * integrates the latest version of Extra IDE Tweaks (2025.1.6):
