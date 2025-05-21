@@ -9,6 +9,11 @@
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.8):
   * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.2+).
   * [#13](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/13): rework and add colors to the Hierarchy tool window icon.
+  * [#13](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/13): add colors to the Open Project main menu icon (New UI).
+  * [#13](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/13): add colors to the JetClient tool window icons (New UI).
+  * [#13](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/13): add colors to the SonarQube tool window icons (New UI).
+  * [#13](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/13): add colors to the TeamCity tool window icons (New UI).
+  * [#13](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/13): add colors to the YouTrack tool window icons (New UI).
   * [#14](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/14): add colors to the AI Assistant main toolbar icon.
   * add colors to the Kubernetes tool window icon.
   * rework the Python Console tool window icon and add alternative icons.
