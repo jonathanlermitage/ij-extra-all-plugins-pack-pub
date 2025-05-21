@@ -17,7 +17,7 @@
   * [#13](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/13): add colors to the Search Everywhere main toolbar icon (New UI).
   * [#13](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/13): add colors to the IDE Settings icons (New UI).
   * [#13](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/13): add colors to the Code With Me main toolbar icon (New UI).
-  * [#14](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/14): add colors to the AI Assistant main toolbar icon.
+  * [#14](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/14): add colors to the AI Assistant main toolbar icon (New UI).
   * add colors to the Kubernetes tool window icon.
   * rework the Python Console tool window icon and add alternative icons.
   * rework the Python Packages tool window icon and add alternative icons.
