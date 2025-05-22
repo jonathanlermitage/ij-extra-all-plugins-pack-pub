@@ -22,6 +22,7 @@
   * rework the Python Console tool window icon and add alternative icons.
   * rework the Python Packages tool window icon and add alternative icons.
   * optimize the plugin size on disk by reorganizing resource files.
+  * minor visual improvements in settings dialogs.
 * integrates the latest version of Extra IDE Tweaks (2025.1.6):
   * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.2+).
 
