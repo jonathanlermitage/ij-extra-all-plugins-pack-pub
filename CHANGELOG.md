@@ -5,6 +5,7 @@
 * integrates the latest version of Extra Icons (2025.1.6):
   * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.2+).
   * implement [#207](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/207): regular expressions shouldn't need to fully match. An option has been added to model conditions, which lets you choose whether a regular expression should match the entire file path or only part of a file path. The default setting is set to match the entire file path.
+  * [#206](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/206): support Visual Studio `*.csproj`, `*.sln` and `*.slnx` files.
   * minor visual improvements in settings dialogs.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.8):
   * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.2+).
