@@ -27,6 +27,7 @@
   * minor visual improvements in settings dialogs.
 * integrates the latest version of Extra IDE Tweaks (2025.1.6):
   * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.2+).
+  * the **Commit Alert** feature now ignores some common files like media files (pictures and videos, PDF files, Office files, etc.), archives, and binary files. This will greatly improve the performance when commiting these files. A future update will let you configure this.
 
 ## 2025.1.6 (2025/05/06)
 * integrates the latest version of Extra Icons (2025.1.5):
