@@ -1,6 +1,6 @@
 # Extra Tools Pack Change Log
 
-## 2025.1.7 (WIP)
+## 2025.1.7 (2025/06/13)
 * the minimal IDE version is now 2024.3 instead of 2023.3.1. This was needed to use newer JetBrains APIs and stay compatible with future IDEs (2025.2+).
 * integrates the latest version of Extra Icons (2025.1.6):
   * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.2+).
