@@ -1,9 +1,15 @@
 # Extra Tools Pack Change Log
 
-## 2025.1.8 (WIP)
+## 2025.1.8 (2025/06/27)
+* integrates the latest version of Extra Icons (2025.1.7):
+  * fix [#215](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/215): `com.intellij.diagnostic.PluginException: / by zero` errors.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.9):
+  * fix [#16](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/16): `SettingsServiceB is in unnamed module of loader com.intellij.ide.plugins.cl.PluginClassLoader` errors.
   * add colors to the Android Profiler tool window icon.
   * rework the Android Build Variants tool window icon (New UI).
+* integrates the latest version of Extra IDE Tweaks (2025.1.7):
+  * fix potential `SettingsServiceB is in unnamed module of loader com.intellij.ide.plugins.cl.PluginClassLoader` errors.
+  * improve the **purge IDE's plugin download cache** feature. Pending plugin installs and updates are no longer affected.
 
 ## 2025.1.7 (2025/06/13)
 * the minimal IDE version is now 2024.3 instead of 2023.3.1. This was needed to use newer JetBrains APIs and stay compatible with future IDEs (2025.2+).
