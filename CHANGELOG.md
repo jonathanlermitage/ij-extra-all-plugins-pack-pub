@@ -1,5 +1,13 @@
 # Extra Tools Pack Change Log
 
+## 2025.1.10 (WIP)
+* integrates the latest version of Extra Icons (2025.1.8):
+  * reintroduce the alt icon for PHP Composer files. It had been removed by mistake. 
+
+## 2025.1.9 (2025/07/01)
+* integrates the latest version of Extra IDE Tweaks (2025.1.8):
+  * fix the **purge IDE's plugin download cache** feature. Archive files for installed plugins no longer required by the IDE were not deleted.
+
 ## 2025.1.8 (2025/06/27)
 * integrates the latest version of Extra Icons (2025.1.7):
   * fix [#215](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/215): `com.intellij.diagnostic.PluginException: / by zero` errors.
