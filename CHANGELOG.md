@@ -1,5 +1,9 @@
 # Extra Tools Pack Change Log
 
+## 2025.1.11 (2025/07/17)
+* integrates the latest version of Extra Icons (2025.1.9):
+  * fix [219](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/219): `java.lang.IllegalStateException: WriteIntentReadAction can not be called from ReadAction` errors could occur on project loading or when refreshing icons when using 2025.1.3 IDEs or the latest IntelliJ 2025.2 EAP build (IU-252.23591.19).
+
 ## 2025.1.10 (2025/07/11)
 * integrates the latest version of Extra Icons (2025.1.8):
   * reintroduce the alt icon for PHP Composer files. It had been removed by mistake.
