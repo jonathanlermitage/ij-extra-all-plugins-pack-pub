@@ -1,5 +1,13 @@
 # Extra Tools Pack Change Log
 
+## 2025.1.13 (2025/07/30)
+* integrates the latest version of Extra Icons (2025.1.11):
+  * workaround for the [IDEA-376370](https://youtrack.jetbrains.com/issue/IDEA-376370/) issue.
+* integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.11):
+  * workaround for the [IDEA-376370](https://youtrack.jetbrains.com/issue/IDEA-376370/) issue.
+* integrates the latest version of Extra IDE Tweaks (2025.1.10):
+  * workaround for the [IDEA-376370](https://youtrack.jetbrains.com/issue/IDEA-376370/) issue.
+
 ## 2025.1.12 (2025/07/24)
 * integrates the latest version of Extra Icons (2025.1.10):
   * better fix for [#219](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/219): the previous fix broke some icon customizations, like Docker, Helm, or Git submodules support.
