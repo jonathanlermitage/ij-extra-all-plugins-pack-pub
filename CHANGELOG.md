@@ -1,7 +1,7 @@
 # Extra Tools Pack Change Log
 
 ## 2025.1.14 (2025/08/05)
-* integrates the latest version of Extra Icons (2025.1.11), Extra ToolWindow Colorful Icons (2025.1.11), and Extra IDE Tweaks (2025.1.10):
+* integrates the latest version of Extra Icons (2025.1.12), Extra ToolWindow Colorful Icons (2025.1.12), and Extra IDE Tweaks (2025.1.11):
   * new series of workarounds for the [IDEA-376370](https://youtrack.jetbrains.com/issue/IDEA-376370/) issue. Up-voting this issue would greatly help.
 
 ## 2025.1.13 (2025/07/30)
