@@ -1,5 +1,12 @@
 # Extra Tools Pack Change Log
 
+## 2025.1.15 (WIP)
+* integrates the latest version of Extra Icons (2025.1.13):
+  * support Firefox extension files `*.xpi`.
+  * support [Forgejo](https://forgejo.org) `.forgejo` folders.
+* integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.13):
+  * add colors to the [AI Playground](https://plugins.jetbrains.com/plugin/27370-ai-playground) tool window icon. This also fixes the icon size when using the Classic UI.
+
 ## 2025.1.14 (2025/08/05)
 * integrates the latest version of Extra Icons (2025.1.12), Extra ToolWindow Colorful Icons (2025.1.12), and Extra IDE Tweaks (2025.1.11):
   * new series of workarounds for the [IDEA-376370](https://youtrack.jetbrains.com/issue/IDEA-376370/) issue. Up-voting this issue would greatly help.
