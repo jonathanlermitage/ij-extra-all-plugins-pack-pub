@@ -5,7 +5,7 @@
   * support Firefox extension files `*.xpi`.
   * support [Forgejo](https://forgejo.org) `.forgejo` folders.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.13):
-  * rework and add colors to various Rider and GoDot toolbar and tool window icons: dotCover, dotMemory, dotTrace, Assembly Explorer, Monitoring, IL, DPA, Build whole solution, Syntax Tree Visualizer / Roslyn analyzers, .NET Project Run / Debug Configurations, various other .NET Run / Debug Configurations, GoDot Scene Preview, dotcover Success status, dotcover Ongoing Success status, Tests toolwindow.
+  * rework and add colors to various Rider and GoDot toolbar and tool window icons: dotCover, dotMemory, dotTrace, Assembly Explorer, Monitoring, IL, DPA, Build whole solution, Syntax Tree Visualizer / Roslyn analyzers, .NET Project Run / Debug Configurations, various other .NET Run / Debug Configurations, GoDot Scene Preview, GoDot Script, dotcover Success status, dotcover Ongoing Success status, Tests toolwindow.
   * add colors to the [AI Playground](https://plugins.jetbrains.com/plugin/27370-ai-playground) tool window icon. This also fixes the icon size when using the Classic UI.
 
 ## 2025.1.14 (2025/08/05)
