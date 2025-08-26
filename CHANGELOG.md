@@ -1,6 +1,6 @@
 # Extra Tools Pack Change Log
 
-## 2025.1.15 (WIP)
+## 2025.1.15 (2025/08/27)
 * integrates the latest version of Extra Icons (2025.1.13):
   * support Firefox extension files `*.xpi`.
   * support [Forgejo](https://forgejo.org) `.forgejo` folders.
