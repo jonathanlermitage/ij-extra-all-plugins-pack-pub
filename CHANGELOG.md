@@ -1,5 +1,9 @@
 # Extra Tools Pack Change Log
 
+## 2025.1.16 (WIP)
+* integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.14):
+  * fix support of the Feature Trainer tool window icon. JetBrains changed the path of this icon in recent IDEs, so I needed to adapt my code.
+
 ## 2025.1.15 (2025/08/27)
 * integrates the latest version of Extra Icons (2025.1.13):
   * support Firefox extension files `*.xpi`.
