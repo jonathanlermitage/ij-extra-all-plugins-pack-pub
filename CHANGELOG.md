@@ -1,6 +1,8 @@
 # Extra Tools Pack Change Log
 
 ## 2025.1.16 (WIP)
+* integrates the latest version of Extra Icons (2025.1.14):
+  * support more files when choosing the `Always prefer old UI icons` option in Extra Icons' advanced settings. This is an effort to make this mode more consistent for people who prefer the classic icons (even when using the New UI), or people who are not comfortable with the wireframe icons that come the New UI.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.14):
   * fix support of the Feature Trainer tool window icon. JetBrains changed the path of this icon in recent IDEs, so I needed to adapt my code.
   * add colors to the Compare Versions tool window (New UI only, the Classic UI tool window has no icon, so I can't change it for now, but I'm working on a workaround).
