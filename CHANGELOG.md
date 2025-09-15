@@ -1,6 +1,6 @@
 # Extra Tools Pack Change Log
 
-## 2025.1.16 (WIP)
+## 2025.1.16 (2025/09/15)
 * integrates the latest version of Extra Icons (2025.1.14):
   * support more files when choosing the `Always prefer old UI icons` option in Extra Icons' advanced settings. This is an effort to make this mode more consistent for people who prefer the classic icons (even when using the New UI), or people who are not comfortable with the wireframe icons that come with the New UI.
   * fix [#214](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/214): support Razor `*.razor` and `.cshtml` files.
