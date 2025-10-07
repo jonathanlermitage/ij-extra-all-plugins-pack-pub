@@ -1,5 +1,8 @@
 # Extra Tools Pack Change Log
 
+## 2025.1.18 (WIP)
+* fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.3+).
+
 ## 2025.1.17 (2025/10/08)
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.3+).
 * integrates the latest version of Extra Icons (2025.1.15):
