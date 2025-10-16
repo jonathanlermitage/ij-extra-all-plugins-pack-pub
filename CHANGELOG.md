@@ -1,6 +1,6 @@
 # Extra Tools Pack Change Log
 
-## 2025.1.18 (WIP)
+## 2025.1.18 (2025/10/16)
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.3+).
 
 ## 2025.1.17 (2025/10/08)
