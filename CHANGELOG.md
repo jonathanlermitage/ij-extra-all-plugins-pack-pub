@@ -15,6 +15,16 @@
   * add colors to the Attach Debugger to Android Process run configuration icon (Android Studio, New UI).
   * add colors to the Sync Project with Gradle Files run configuration icon (Android Studio, New UI).
   * add colors to the App Links Assistant tool window icon (Android Studio).
+  * add colors to the API Change Assistant tool window (DevEco Studio only).
+  * add colors to the Code Linter tool window (DevEco Studio only).
+  * add colors to the Log tool window (DevEco Studio only).
+  * add colors to the ArkUI Inspector tool window (DevEco Studio only).
+  * add colors to the Device File Browser tool window (DevEco Studio only).
+  * add colors to the Previewer tool window (DevEco Studio only).
+  * add colors to the Kit Assistant tool window (DevEco Studio only).
+  * add colors to the Migrate Assistant tool window (DevEco Studio only).
+  * add colors to the API Reference tool window (DevEco Studio only).
+  * add colors to the Product main toolbar button (DevEco Studio only).
 * integrates the latest version of Extra IDE Tweaks (2025.1.15):
   * **highly recommended update**: prevent a potential IDE freeze when the `Always Excluded Folders` feature is enabled and the IDE is opening a very large project or many smaller projects that need a complete re-indexing, and too many modules are present. This is an improvement of the original fix provided in the 2025.1.12 (2025/08/27) plugin release. The `Always Excluded Folders` was disabled for projects with more than 20 modules, but the IDE may also invoke this function by passing the modules one by one. Per example, with a project with 1600 modules (like the IntelliJ Community sources), it invoked the function with the 1600 modules, so I blocked it, but just after that, it also invoked the function 1600 times, one time for each module, which may freeze the IDE for a long time. This is now fixed by caching (in memory) the number of modules for the opened project.
 
