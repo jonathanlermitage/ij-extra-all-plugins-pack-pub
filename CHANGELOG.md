@@ -1,5 +1,9 @@
 # Extra Tools Pack Change Log
 
+## 2025.1.21 (WIP)
+* integrates the latest version of Extra IDE Tweaks (2025.1.16):
+  * UI reworks in the plugin's settings panel.
+
 ## 2025.1.20 (2025/11/22)
 * integrates the latest version of Extra Icons (2025.1.18):
   * fix [#228](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/228): previous plugin release broke C# support. This is now fixed.
