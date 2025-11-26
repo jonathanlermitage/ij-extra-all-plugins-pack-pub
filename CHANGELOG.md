@@ -8,6 +8,7 @@
   * UI reworks in the plugin's settings panel.
 * integrates the latest version of Extra IDE Tweaks (2025.1.16):
   * UI reworks in the plugin's settings panel.
+  * implement [#7](https://github.com/jonathanlermitage/intellij-extra-ide-tweaks/issues/7): provide an assistant to find (via regular expressions) and register multiple entries to add to the `Always Excluded Folders` list.
 
 ## 2025.1.20 (2025/11/22)
 * integrates the latest version of Extra Icons (2025.1.18):
