@@ -1,6 +1,7 @@
 # Extra Tools Pack Change Log
 
 ## 2025.1.21 (WIP)
+* the minimal IDE version is now 2024.3.
 * integrates the latest version of Extra Icons (2025.1.19):
   * UI reworks in the plugin's settings panel.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.17):
