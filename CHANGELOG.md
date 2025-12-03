@@ -4,7 +4,7 @@
 * the minimal IDE version is now 2025.1.
 * integrates the latest version of Extra Icons (2025.1.19):
   * UI reworks in the plugin's settings panel.
-  * minor code rework, preventing some rare case where plugin or user icons were not loading.
+  * minor code rework, preventing some rare cases where plugin or user icons were not loading.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.17):
   * UI reworks in the plugin's settings panel.
 * integrates the latest version of Extra IDE Tweaks (2025.1.16):
