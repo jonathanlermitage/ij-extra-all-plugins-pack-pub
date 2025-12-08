@@ -7,11 +7,14 @@
   * minor code rework, preventing some rare cases where plugin or user icons were not loading.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.17):
   * UI reworks in the plugin's settings panel.
+  * add colors to the (Test Automation) Web Inspector tool window.
+  * add colors to the (Plugin DevKit) Compose UI Preview tool window.
+  * add colors to the Jewel demo tool window.
 * integrates the latest version of Extra IDE Tweaks (2025.1.16):
   * **highly recommended update**: prevent an IDE freeze if an entry from the `Always Excluded Folders` list contains invalid filename characters.
   * implement [#7](https://github.com/jonathanlermitage/intellij-extra-ide-tweaks/issues/7): provide an assistant to find (via a regular expression) and register multiple entries to add to the `Always Excluded Folders` list.
   * UI reworks in the plugin's settings panel.
-  
+
 ## 2025.1.20 (2025/11/22)
 * integrates the latest version of Extra Icons (2025.1.18):
   * fix [#228](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/228): previous plugin release broke C# support. This is now fixed.
