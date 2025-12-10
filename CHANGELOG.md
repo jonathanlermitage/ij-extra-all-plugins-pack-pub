@@ -5,7 +5,7 @@
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.1+).
 * integrates the latest version of Extra Icons (2025.1.19):
   * UI reworks in the plugin's settings panel.
-  * minor code rework, preventing some rare cases where plugin or user icons were not loading.
+  * minor code rework, preventing some rare cases where plugin icons or user icons were not loading.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.17):
   * UI reworks in the plugin's settings panel.
   * add colors to the (Test Automation) Web Inspector tool window.
