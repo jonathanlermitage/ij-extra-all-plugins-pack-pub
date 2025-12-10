@@ -4,13 +4,13 @@
 * the minimal IDE version is now 2025.1.4.1.
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.1+).
 * integrates the latest version of Extra Icons (2025.1.19):
-  * UI reworks in the plugin's settings panel.
   * minor code rework, preventing some rare cases where plugin icons or user icons were not loading.
-* integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.17):
   * UI reworks in the plugin's settings panel.
+* integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.17):
   * add colors to the (Test Automation) Web Inspector tool window.
   * add colors to the (Plugin DevKit) Compose UI Preview tool window.
   * add colors to the Jewel Demos tool window.
+  * UI reworks in the plugin's settings panel.
 * integrates the latest version of Extra IDE Tweaks (2025.1.16):
   * **highly recommended update**: prevent an IDE freeze if an entry from the `Always Excluded Folders` list contains invalid filename characters.
   * implement [#7](https://github.com/jonathanlermitage/intellij-extra-ide-tweaks/issues/7): provide an assistant to find (via a regular expression) and register multiple entries to add to the `Always Excluded Folders` list.
