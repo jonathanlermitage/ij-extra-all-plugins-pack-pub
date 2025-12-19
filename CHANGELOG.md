@@ -11,6 +11,7 @@
   * add colors to the (Test Automation) Web Inspector tool window.
   * add colors to the (Plugin DevKit) Compose UI Preview tool window.
   * add colors to the Jewel Demos tool window.
+  * add colors to the Build Project and Rebuild Project items in the Build menu (New UI, the Classic UI already had colored icons).
   * UI reworks in the plugin's settings panel.
 * integrates the latest version of Extra IDE Tweaks (2025.1.16):
   * **highly recommended update**: prevent an IDE freeze if an entry from the `Always Excluded Folders` list contains invalid filename characters.
