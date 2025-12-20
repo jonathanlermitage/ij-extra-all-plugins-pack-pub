@@ -17,7 +17,7 @@
   * add colors to the (DataSpell) Python Process Output tool window.
   * add colors to the (DataSpell) Data tool window.
   * add colors to the (DataSpell) Jupyter Variables tool window.
-  * add colors to the (DataSpell) Feedback button main menu icon.
+  * add colors to the (DataSpell) Feedback main menu icon.
   * UI reworks in the plugin's settings panel.
 * integrates the latest version of Extra IDE Tweaks (2025.1.16):
   * **highly recommended update**: prevent an IDE freeze if an entry from the `Always Excluded Folders` list contains invalid filename characters.
