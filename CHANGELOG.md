@@ -1,13 +1,13 @@
 # Extra Tools Pack Change Log
 
-## 2025.1.21 (WIP)
+## 2026.1 (WIP)
 * the minimal IDE version is now 2025.1.4.1.
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.1+).
-* integrates the latest version of Extra Icons (2025.1.19):
+* integrates the latest version of Extra Icons (2026.1):
   * implement [#233](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/233): improve experimental C# support. Plugin now detects C# classes, abstract classes, partial classes, sealed classes, enums, interfaces, records, abstract records, structures. Also support `*.csx`, `*.resx` and `*.xaml` files.
   * minor code rework, preventing some rare cases where plugin icons or user icons were not loading.
   * UI reworks in the plugin's settings panel.
-* integrates the latest version of Extra ToolWindow Colorful Icons (2025.1.17):
+* integrates the latest version of Extra ToolWindow Colorful Icons (2026.1):
   * add colors to the (Test Automation) Web Inspector tool window.
   * add colors to the (Plugin DevKit) Compose UI Preview tool window.
   * add colors to the Jewel Demos tool window.
@@ -19,7 +19,7 @@
   * add colors to the (DataSpell) Jupyter Variables tool window.
   * add colors to the (DataSpell) Feedback main menu icon.
   * UI reworks in the plugin's settings panel.
-* integrates the latest version of Extra IDE Tweaks (2025.1.16):
+* integrates the latest version of Extra IDE Tweaks (2026.1):
   * **highly recommended update**: prevent an IDE freeze if an entry from the `Always Excluded Folders` list contains invalid filename characters.
   * implement [#7](https://github.com/jonathanlermitage/intellij-extra-ide-tweaks/issues/7): provide an assistant to find (via a regular expression) and register multiple entries to add to the `Always Excluded Folders` list.
   * UI reworks in the plugin's settings panel.
