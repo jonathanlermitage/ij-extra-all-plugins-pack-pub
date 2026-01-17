@@ -5,7 +5,7 @@
   * internal: reworked logging.
   * general performance improvements.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.2):
-  * improve support for 20x20 icons (New UI). This means that future plugin releases will offer icons with higher definition (20x20 instead of 16x16 or 13x13) when using the New UI.
+  * improve support for 20x20 icons (New UI). This means that future plugin releases will start to offer icons with higher definition (20x20 instead of 16x16 or 13x13) when using the New UI.
   * rework the (Android) App Inspection tool window icon.
   * general performance improvements.
 
