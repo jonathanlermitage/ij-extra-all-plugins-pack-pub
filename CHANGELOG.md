@@ -9,6 +9,8 @@
   * rework the (Android) App Inspection tool window icon.
   * add colors to the Branch main toolbar icon (New UI).
   * general performance improvements.
+* integrates the latest version of Extra IDE Tweaks (2026.1.2):
+  * add an option to warn you when the **IDE's plugin download cache** is too large. A notification can be displayed to help you clear the cache.
 
 ## 2026.1.1 (2026/01/06)
 * the minimal IDE version is now 2025.1.4.1.
