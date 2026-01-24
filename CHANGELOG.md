@@ -1,8 +1,8 @@
 # Extra Tools Pack Change Log
 
-## 2026.1.3 (WIP)
+## 2026.1.3 (2026/01/24)
 * integrates the latest version of Extra IDE Tweaks (2026.1.3):
-  * minor improvement to the **purge IDE's plugin download cache** feature.
+  * update the [list of files to keep](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/extra-ide-tweaks-ide-caches-management.html#usage) when using the **purge IDE's plugin download cache** feature.
 
 ## 2026.1.2 (2026/01/20)
 * integrates the latest version of Extra Icons (2026.1.2):
