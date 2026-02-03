@@ -1,8 +1,13 @@
 # Extra Tools Pack Change Log
 
 ## 2026.1.4 (WIP)
+* integrates the latest version of Extra Icons (2026.1.3):
+  * code and i18n reworks.
+* integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.3):
+  * code and i18n reworks.
 * integrates the latest version of Extra IDE Tweaks (2026.1.4):
   * in previous plugin version, enabling or disabling `Extra IDE Tweaks > IDE Caches Management > Periodically check the Plugins Browser Cache` took effect after restarting the IDE. It's now instant.
+  * code and i18n reworks.
 
 ## 2026.1.3 (2026/01/24)
 * integrates the latest version of Extra IDE Tweaks (2026.1.3):
