@@ -2,6 +2,7 @@
 
 ## 2026.1.4 (WIP)
 * integrates the latest version of Extra Icons (2026.1.3):
+  * support `.aiignore` files.
   * code and i18n reworks.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.3):
   * code and i18n reworks.
