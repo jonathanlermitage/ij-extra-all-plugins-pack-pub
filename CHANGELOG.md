@@ -2,7 +2,7 @@
 
 ## 2026.1.4 (WIP)
 * integrates the latest version of Extra Icons (2026.1.3):
-  * implement [#237](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/237): create user icon via right-click on file. See `File > Settings > Extra Icons > Advanced settings` for options. Not yet available in Rider, but I'm working on it.
+  * implement [#237](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/237): create user icon via right-click on file. See `File > Settings > Appearance & Behavior > Extra Icons > Advanced settings` for options. Not yet available in Rider, but I'm working on it.
   * fix [#239](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/239): can't change some icons for Java and Kotlin classes in project view and in editor's tabs.
   * user icons: the `Lowercase file path before check` option now applies whenever you select a `Regex`, `Parents`, `Names`, or `Extensions` conditions. In previous plugin versions, it only applied to the `Regex` condition, and the path was automatically converted to lowercase for the other conditions.
   * support `.aiignore` files.
@@ -11,7 +11,7 @@
   * code and i18n reworks.
 * integrates the latest version of Extra IDE Tweaks (2026.1.4):
   * **highly recommended update**: the `Always Excluded Folders` feature has been rewritten to avoid any thread lock, particularly with recent IDEs. It is also more efficient.
-  * in previous plugin version, enabling or disabling `Extra IDE Tweaks > IDE Caches Management > Periodically check the Plugins Browser Cache` took effect after restarting the IDE. It's now instant.
+  * in previous plugin version, enabling or disabling `File > Settings > Tools > Extra IDE Tweaks > IDE Caches Management > Periodically check the Plugins Browser Cache` took effect after restarting the IDE. It's now instant.
   * prevent `java.lang.UnsupportedOperationException: TRANSLUCENT translucency is not supported` error reports in Rider 2026.1 EAP.
   * code and i18n reworks.
 
