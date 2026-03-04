@@ -2,6 +2,8 @@
 
 ## 2026.1.5 (WIP)
 * fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.1+).
+* integrates the latest version of Extra Icons (2026.1.4):
+  * improve [#237](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/237): create user icon via right-click on file now also works in Rider. Thanks to the JetBrains team for their help.
 
 ## 2026.1.4 (2026/02/20)
 * integrates the latest version of Extra Icons (2026.1.3):
