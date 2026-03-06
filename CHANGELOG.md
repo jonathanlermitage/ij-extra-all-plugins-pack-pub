@@ -4,6 +4,8 @@
 * fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.1+).
 * integrates the latest version of Extra Icons (2026.1.4):
   * improve [#237](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/237): create user icon via right-click on file now also works in Rider. Thanks to the JetBrains team for their help.
+* integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.4):
+  * add colors to the Documentation tool window (which appears when you press `Ctrl+H` twice).
 
 ## 2026.1.4 (2026/02/20)
 * integrates the latest version of Extra Icons (2026.1.3):
