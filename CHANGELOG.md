@@ -7,6 +7,7 @@
   * rework TypeScript support: let the IDE show the default TypeScript icons for `*.ts` files when using the New UI, and show the New UI's TypeScript icons when using the Classic UI. Other TypeScript icons (for `*.spec.ts`, etc.) are still enabled. This should offer a better experience when working with TypeScript files.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.4):
   * add colors to the Documentation tool window (which appears when you press `Ctrl+H` twice).
+  * rework the Messages tool window icon (New UI).
 
 ## 2026.1.4 (2026/02/20)
 * integrates the latest version of Extra Icons (2026.1.3):
