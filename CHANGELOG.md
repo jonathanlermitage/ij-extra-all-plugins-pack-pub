@@ -1,6 +1,18 @@
 # Extra Tools Pack Change Log
 
-## 2026.1.5 (WIP)
+## 2026.1.6 (WIP)
+* adapt the plugin to support Lifetime licenses. See the new Extra Tools Pack Lifetime plugin.
+* integrates the latest version of Extra Icons (2026.1.5):
+  * adapt the plugin to support Lifetime licenses. See the new Extra Icons Lifetime plugin.
+  * internal: code reworks.
+* integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.5):
+  * rework the Android Profiler tool window icon (New UI).
+  * rework the Android App Quality Insights tool window icon (New UI).
+  * internal: code reworks.
+* integrates the latest version of Extra IDE Tweaks (2026.1.6):
+  * internal: code reworks.
+
+## 2026.1.5 (2026/03/11)
 * fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.1+).
 * integrates the latest version of Extra Icons (2026.1.4):
   * improve [#237](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/237): create user icon via right-click on file now also works in Rider. Thanks to the JetBrains team for their help.
