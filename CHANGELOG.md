@@ -6,7 +6,7 @@
   * rework the generic YAML icon. Now displays the JetBrains' icon, but you can still use alternative icons: the icon from the Classic UI, and some custom icons.
   * internal: code reworks.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.5):
-  * add colors to the Clone Repository main menu icon.
+  * add colors to the Clone Repository main menu icon (New UI).
   * rework the Android Profiler tool window icon (New UI).
   * rework the Android App Quality Insights tool window icon (New UI).
   * internal: code reworks.
