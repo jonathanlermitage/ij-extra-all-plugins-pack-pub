@@ -8,6 +8,7 @@
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.5):
   * fix [PlantUML integration](https://plugins.jetbrains.com/plugin/7017-plantuml-integration) support.
   * add colors to the Clone Repository main menu icon (New UI).
+  * improve support of the (Plugin DevKit) Compose UI Preview tool window.
   * rework the Android Profiler tool window icon (New UI).
   * rework the Android App Quality Insights tool window icon (New UI).
   * internal: code reworks.
