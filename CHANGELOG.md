@@ -1,6 +1,6 @@
 # Extra Tools Pack Change Log
 
-## 2026.1.6 (WIP)
+## 2026.1.6 (2026/03/30)
 * adapt the plugin to support Lifetime licenses. See the new Extra Tools Pack Lifetime plugin.
 * integrates the latest version of Extra Icons (2026.1.5):
   * rework the generic YAML icon. Now displays the JetBrains' icon, but you can still use alternative icons: the icon from the Classic UI, and some custom icons.
@@ -8,6 +8,7 @@
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.5):
   * fix [PlantUML integration](https://plugins.jetbrains.com/plugin/7017-plantuml-integration) support.
   * add colors to the Clone Repository main menu icon (New UI).
+  * add colors to the Remote Host tool window icon (New UI).
   * improve support of the (Plugin DevKit) Compose UI Preview tool window.
   * rework the Android Profiler tool window icon (New UI).
   * rework the Android App Quality Insights tool window icon (New UI).
