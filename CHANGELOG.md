@@ -1,7 +1,8 @@
 # Extra Tools Pack Change Log
 
-## 2026.1.7 (WIP)
+## 2026.1.7 (2026/04/08)
 * internal: code reworks.
+* change the icon of Extra Tools Pack Lifetime, which was identical to the icon Extra Icons Lifetime.
 
 ## 2026.1.6 (2026/03/30)
 * adapt the plugin to support Lifetime licenses. See the new Extra Tools Pack Lifetime plugin.
