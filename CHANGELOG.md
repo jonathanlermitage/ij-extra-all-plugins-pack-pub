@@ -1,5 +1,9 @@
 # Extra Tools Pack Change Log
 
+## 2026.1.8 (WIP)
+* integrates the latest version of Extra Icons (2026.1.7):
+  * minor performance optimization when overriding a file or a folder icon with a user icon.
+
 ## 2026.1.7 (2026/04/08)
 * internal: code reworks.
 * change the icon of Extra Tools Pack Lifetime, which was identical to the icon Extra Icons Lifetime.
