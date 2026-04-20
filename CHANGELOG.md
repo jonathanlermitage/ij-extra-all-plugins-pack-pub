@@ -5,9 +5,11 @@
   * minor performance optimization when overriding a file or a folder icon with a user icon.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.7):
   * restore colors to the Deployment menu icon.
-  * restore colors to the File Transfert tool window icon.
+  * restore colors to the File Transfer tool window icon.
   * restore colors to the Remote Host tool window icon.
   * rework the Download to server and Upload to server menu icons (New UI).
+* integrates the latest version of Extra IDE Tweaks (2026.1.8):
+  * internal: code reworks.
 
 ## 2026.1.7 (2026/04/08)
 * internal: code reworks.
