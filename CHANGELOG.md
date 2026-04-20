@@ -7,7 +7,7 @@
   * restore colors to the Deployment menu icon.
   * restore colors to the File Transfert tool window icon.
   * restore colors to the Remote Host tool window icon.
-  * rework the Download and Upload menu icons (New UI).
+  * rework the Download to server and Upload to server menu icons (New UI).
 
 ## 2026.1.7 (2026/04/08)
 * internal: code reworks.
