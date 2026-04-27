@@ -1,5 +1,9 @@
 # Extra Tools Pack Change Log
 
+## 2026.1.9 (WIP)
+* integrates the latest version of Extra Icons (2026.1.8):
+  * support `SKILL.md` files.
+
 ## 2026.1.8 (2026/04/24)
 * integrates the latest version of Extra Icons (2026.1.7):
   * minor performance optimization when overriding a file or a folder icon with a user icon.
