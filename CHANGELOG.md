@@ -4,7 +4,7 @@
 * integrates the latest version of Extra Icons (2026.1.8):
   * support `SKILL.md` files.
   * support `idea.properties` files.
-  * support `idea64(.exe).vmoptions`, `phpstorm64(.exe).vmoptions`, `pycharm64(.exe).vmoptions`, `rider64(.exe).vmoptions`, `rubymine64(.exe).vmoptions`, `studio64(.exe).vmoptions`, and `webstorm64(.exe).vmoptions` files.
+  * support `idea64(.exe).vmoptions`, `clion64(.exe).vmoptions`, `datagrip64(.exe).vmoptions`, `dataspell64(.exe).vmoptions`, `goland64(.exe).vmoptions`, `phpstorm64(.exe).vmoptions`, `pycharm64(.exe).vmoptions`, `rider64(.exe).vmoptions`, `rubymine64(.exe).vmoptions`, `studio64(.exe).vmoptions`, and `webstorm64(.exe).vmoptions` files.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.8):
   * restore colors to the Connect to Database menu icon (New UI).
 
