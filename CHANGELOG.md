@@ -2,13 +2,17 @@
 
 ## 2026.1.9 (WIP)
 * integrates the latest version of Extra Icons (2026.1.8):
+  * fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.2+).
   * fix [#242](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/242): unwanted `NullPointerException` error notification. It seems to happen only with the third party "Rebased" IDE, which doesn't handle project facets correctly. When no facets are available, the IDE should return an empty list of facets. Unfortunately, the Rebased IDE returns `null`, which doesn't respect the official API. I adapted my code to handle this specific case.
   * support Patch files.
   * support `SKILL.md` files.
   * support `idea.properties` files.
   * support `idea64(.exe).vmoptions`, `clion64(.exe).vmoptions`, `datagrip64(.exe).vmoptions`, `dataspell64(.exe).vmoptions`, `goland64(.exe).vmoptions`, `phpstorm64(.exe).vmoptions`, `pycharm64(.exe).vmoptions`, `rider64(.exe).vmoptions`, `rubymine64(.exe).vmoptions`, `studio64(.exe).vmoptions`, and `webstorm64(.exe).vmoptions` files.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.8):
+  * fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.2+).
   * restore colors to the Connect to Database menu icon (New UI).
+* integrates the latest version of Extra IDE Tweaks (2026.1.9):
+  * fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.2+).
 
 ## 2026.1.8 (2026/04/24)
 * integrates the latest version of Extra Icons (2026.1.7):
