@@ -1,10 +1,18 @@
 # Extra Tools Pack Change Log
 
 ## 2026.1.11 (WIP)
-* fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.2+).
+* integrates the latest version of Extra Icons (2026.1.10):
+  * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.2+).
+  * generate fewer logs.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.10):
+  * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.2+).
   * add colors to the Agent Threads ([Agent Workbench](https://plugins.jetbrains.com/plugin/30926-agent-workbench) JetBrains plugin, 2026.2+ IDEs only) tool window icon.
   * rework the Compose UI Preview (Plugin DevKit) tool window icon.
+* integrates the latest version of Extra IDE Tweaks (2026.1.11):
+  * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.2+).
+  * minor code reworks.
+  * minor reworks on the license management.
+  * generate fewer logs.
 
 ## 2026.1.10 (2026/05/25)
 * make the license management more permissive.
