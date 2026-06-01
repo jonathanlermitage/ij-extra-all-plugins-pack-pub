@@ -8,6 +8,7 @@
   * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.2+).
   * add colors to the Agent Threads ([Agent Workbench](https://plugins.jetbrains.com/plugin/30926-agent-workbench) JetBrains plugin, 2026.2+ IDEs only) tool window icon.
   * rework the Compose UI Preview (Plugin DevKit) tool window icon.
+  * initial code rework aimed at preparing for potential future support of remote IDEs, such as JetBrains Client/Gateway, Gitpod, etc.
 * integrates the latest version of Extra IDE Tweaks (2026.1.11):
   * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.2+).
   * minor code reworks.
