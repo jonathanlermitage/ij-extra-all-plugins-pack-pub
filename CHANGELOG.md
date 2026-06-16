@@ -1,6 +1,6 @@
 # Extra Tools Pack Change Log
 
-## 2026.1.11 (WIP)
+## 2026.1.11 (2026/06/15)
 * integrates the latest version of Extra Icons (2026.1.10):
   * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.2+).
   * generate fewer logs.
@@ -9,6 +9,7 @@
   * add colors to the Agent Threads ([Agent Workbench](https://plugins.jetbrains.com/plugin/30926-agent-workbench) JetBrains plugin, 2026.2+ IDEs only) tool window icon and the New Junie Thread button icon.
   * add colors to the [Bazel](https://plugins.jetbrains.com/plugin/22977-bazel) tool window icon.
   * add colors to the Create Patch menu icon.
+  * add colors to the (Plugin DevKit) Jewel tool window icon.
   * rework the Create Bookmark List button icon. This should also work with most "Add to list" and "Create list" buttons.
   * rework the Compose UI Preview (Plugin DevKit) tool window icon.
   * rework the Delete, Cherry-Pick, Scroll Down, Scroll Up, and Toggle Soft Wrap button icons (New UI).
