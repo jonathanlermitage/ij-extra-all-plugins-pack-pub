@@ -3,6 +3,8 @@
 ## 2026.1.12 (WIP)
 * integrates the latest version of Extra Icons (2026.1.11):
   * fix [#243](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/243): can't apply custom icons to binary files (like PDF), at least in Rider.
+* integrates the latest version of Extra IDE Tweaks (2026.1.12):
+  * fix the `Tools > Plugins...` menu action. It was broken for 2026.2+ IDEs.
 
 ## 2026.1.11 (2026/06/15)
 * integrates the latest version of Extra Icons (2026.1.10):
