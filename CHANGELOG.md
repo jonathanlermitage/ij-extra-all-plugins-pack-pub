@@ -1,5 +1,10 @@
 # Extra Tools Pack Change Log
 
+## 2026.1.14 (WIP)
+* enable compatibility with future 2026.3 IDEs.
+* integrates the latest version of Extra IDE Tweaks (2026.1.14):
+  * minor performance improvement when the `Always Excluded Folders` feature is disabled. In previous versions, it was still reading the list of modules for each open project, even when this feature was disabled. Now, the `Always Excluded Folders` feature is completely disabled when configured accordingly.
+
 ## 2026.1.13 (2026/07/17)
 * internal: various code reworks.
 * integrates the latest version of Extra Icons (2026.1.12):
