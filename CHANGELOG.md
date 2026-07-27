@@ -1,5 +1,9 @@
 # Extra Tools Pack Change Log
 
+## 2026.1.15 (WIP)
+* integrates the latest version of Extra Icons (2026.1.14):
+  * support `AGENTS.md`, `CLAUDE.md`, and `GEMINI.md` files.
+
 ## 2026.1.14 (2026/07/22)
 * enable compatibility with future 2026.3 IDEs.
 * integrates the latest version of Extra IDE Tweaks (2026.1.14):
