@@ -6,6 +6,7 @@
   * internal: avoid `ControlFlowException` errors. These errors were already silenced and had no impact on the user experience, but their root cause is now better understood, which should result in a slight performance improvement when rendering custom icons.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.13):
   * rework the JPA Buddy tool window icons.
+  * rework the Documentation tool window icon (Classic UI).
 
 ## 2026.1.14 (2026/07/22)
 * enable compatibility with future 2026.3 IDEs.
