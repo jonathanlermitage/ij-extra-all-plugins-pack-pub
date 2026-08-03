@@ -1,6 +1,6 @@
 # Extra Tools Pack Change Log
 
-## 2026.1.15 (WIP)
+## 2026.1.15 (2026/08/04)
 * integrates the latest version of Extra Icons (2026.1.14):
   * support `AGENTS.md`, `CLAUDE.md`, and `GEMINI.md` files.
   * fix `SKILL.md` support. It was case-sensitive and worked only with `skill.md` files.
