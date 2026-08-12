@@ -1,8 +1,13 @@
 # Extra Tools Pack Change Log
 
 ## 2026.1.16 (WIP)
+* integrates the latest version of Extra Icons (2026.1.15):
+  * minor i18n reworks.
+* integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.14):
+  * minor i18n reworks.
 * integrates the latest version of Extra IDE Tweaks (2026.1.15):
   * add a new experimental feature: the `Updates` tool window lists the dependencies of a Gradle project - libraries and Gradle plugins, whether they are declared in build scripts or in a version catalog - with their current version and the latest version available online. You can check for updates on demand and on project opening. I may add support for other build systems (including non-Java) later.
+  * minor i18n reworks.
 
 ## 2026.1.15 (2026/08/04)
 * integrates the latest version of Extra Icons (2026.1.14):
