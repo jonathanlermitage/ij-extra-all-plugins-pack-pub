@@ -1,5 +1,9 @@
 # Extra Tools Pack Change Log
 
+## 2026.1.17 (WIP)
+* integrates the latest version of Extra IDE Tweaks (2026.1.16):
+  * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.3+).
+
 ## 2026.1.16 (2026/08/28)
 * integrates the latest version of Extra Icons (2026.1.15):
   * minor i18n reworks.
