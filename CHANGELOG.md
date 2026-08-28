@@ -1,6 +1,6 @@
 # Extra Tools Pack Change Log
 
-## 2026.1.16 (WIP)
+## 2026.1.16 (2026/08/28)
 * integrates the latest version of Extra Icons (2026.1.15):
   * minor i18n reworks.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.14):
