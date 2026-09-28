@@ -3,6 +3,7 @@
 ## 2026.1.17 (WIP)
 * integrates the latest version of Extra IDE Tweaks (2026.1.16):
   * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.3+).
+  * the experimental `Updates` tool window also supports Node.js projects: `package.json` content, Node.js and NPM versions.
 
 ## 2026.1.16 (2026/08/28)
 * integrates the latest version of Extra Icons (2026.1.15):
