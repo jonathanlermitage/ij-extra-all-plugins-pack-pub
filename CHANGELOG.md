@@ -1,6 +1,8 @@
 # Extra Tools Pack Change Log
 
 ## 2026.1.17 (WIP)
+* integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.14):
+  * rework the override of the `add.svg` icon used in various locations. This fixes the support of the AI Assistant's `Next File` tool window icon introduced with IntelliJ 2026.3 EAP4.
 * integrates the latest version of Extra IDE Tweaks (2026.1.16):
   * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.3+).
   * the experimental `Updates` tool window now flags the Gradle and Maven dependencies and plugins that are relocated to other Maven coordinates, using the definitions of the [Old GroupIds Alerter - Maven Plugin](https://github.com/jonathanlermitage/oga-maven-plugin).
