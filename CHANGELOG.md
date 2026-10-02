@@ -1,7 +1,7 @@
 # Extra Tools Pack Change Log
 
 ## 2026.1.17 (WIP)
-* integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.14):
+* integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.15):
   * rework the override of the `add.svg` icon used in various locations. This fixes the support of the AI Assistant's `Next File` tool window icon introduced with IntelliJ 2026.3 EAP4.
 * integrates the latest version of Extra IDE Tweaks (2026.1.16):
   * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.3+).
