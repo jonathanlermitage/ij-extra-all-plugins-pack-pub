@@ -1,5 +1,9 @@
 # Extra Tools Pack Change Log
 
+## 2026.1.18 (WIP)
+* integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.16):
+  * support the Spring Profile selector icon in the status bar.
+
 ## 2026.1.17 (2026/10/06)
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.15):
   * rework the override of the `add.svg` icon used in various locations. This fixes the support of the AI Assistant's `Next File` tool window icon introduced with IntelliJ 2026.3 EAP4.
