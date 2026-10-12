@@ -5,6 +5,8 @@
   * support the Spring Profile selector icon in the status bar.
   * support the AI Assistant "no login" icon when using the Classic UI. The official icon provided by the AI Assistant plugin is too big. It's a 20x20 icon, while the Classic UI requires 16x16 icons. The IDE does not resize the icon correctly, so I am providing a revised icon.
   * rework the AI Assistant "disabled" icons when using the Classic UI.
+  * support various Junie and Air icons. As the official Air icon is gray, I’ve provided several icons in different colors. Remember that you can choose whichever icon you like in the settings (select your favourite "alternative" icon).
+  * fix the dotMemory dark icon.
 * integrates the latest version of Extra IDE Tweaks (2026.1.17):
   * the experimental `Updates` tool window can hide an update or relocation you don't care about: right-click a dependency and hide it permanently, for 1 day, or for 7 days. Hidden updates are remembered per project and are listed again once a newer version is found. You can also unhide an update at any moment.
   * the experimental `Updates` tool window now finds the Gradle, Maven, and Node.js files via the IDE filename index instead of walking the project tree, which is faster on large projects. So, the tool window and the check on project opening now wait for the indexing to complete.
