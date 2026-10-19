@@ -1,6 +1,8 @@
 # Extra Tools Pack Change Log
 
 ## 2026.1.18 (WIP)
+* integrates the latest version of Extra Icons (2026.1.16):
+  * support `PLANS.md` and `PLAN.md` files.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.16):
   * support the Spring Profile selector icon in the status bar.
   * support the AI Assistant "no login" icon when using the Classic UI. The official icon provided by the AI Assistant plugin is too big. It's a 20x20 icon, while the Classic UI requires 16x16 icons. The IDE does not resize the icon correctly, so I am providing a revised icon.
