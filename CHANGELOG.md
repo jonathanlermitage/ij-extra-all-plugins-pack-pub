@@ -1,6 +1,10 @@
 # Extra Tools Pack Change Log
 
-## 2026.1.18 (WIP)
+## 2026.1.19 (WIP)
+* integrates the latest version of Extra IDE Tweaks (2026.1.18):
+  * fix usage of JetBrains deprecated APIs, fixing the compatibility with future IDEs.
+
+## 2026.1.18 (2026/10/20)
 * integrates the latest version of Extra Icons (2026.1.16):
   * support `PLANS.md` and `PLAN.md` files.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.16):
