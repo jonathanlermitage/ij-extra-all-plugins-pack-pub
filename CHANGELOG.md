@@ -1,5 +1,11 @@
 # Extra Tools Pack Change Log
 
+## 2026.1.10 (WIP)
+* integrates the latest version of Extra Icons (2026.1.1è):
+  * support `.junie` folders.
+  * support `.junie/plans` folders.
+  * support `.*plans.md` and `.*plan.md` files located in `.junie/plans/`.
+
 ## 2026.1.18 (2026/10/20)
 * integrates the latest version of Extra Icons (2026.1.16):
   * support `PLANS.md` and `PLAN.md` files.
