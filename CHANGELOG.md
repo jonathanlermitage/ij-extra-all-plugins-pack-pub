@@ -4,7 +4,7 @@
 * integrates the latest version of Extra Icons (2026.1.17):
   * support `.junie` folders.
   * support `.junie/plans` folders.
-  * support markdown files located in `.junie/plans/`.
+  * support Markdown files located in `.junie/plans/`.
 
 ## 2026.1.18 (2026/10/20)
 * integrates the latest version of Extra Icons (2026.1.16):
