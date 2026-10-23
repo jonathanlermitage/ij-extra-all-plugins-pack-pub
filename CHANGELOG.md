@@ -5,6 +5,7 @@
   * support `.junie` folders.
   * support `.junie/plans` folders.
   * support Markdown files located in `.junie/plans/`.
+  * support Zelix KlassMaster `defaultExclude.txt` and `defaultTrimExclude.txt` files. Their content is loaded to detect terms like `exclude`, `trimExclude` or `Zelix KlassMaster` (case-sensitive).
 
 ## 2026.1.18 (2026/10/20)
 * integrates the latest version of Extra Icons (2026.1.16):
