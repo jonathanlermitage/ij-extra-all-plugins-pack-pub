@@ -12,6 +12,7 @@
   * support Rust `cargo.lock` files.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.17):
   * improve support of the `Unit Tests` Run Configuration icon in Rider. The `Tests` tool window icon was colored, but not the Run Configuration icon.
+  * support the Rust Cargo tool window icon.
 
 ## 2026.1.18 (2026/10/20)
 * integrates the latest version of Extra Icons (2026.1.16):
