@@ -7,6 +7,8 @@
   * support Markdown files located in `.junie/plans/`.
   * support Zelix KlassMaster `defaultExclude.txt` and `defaultTrimExclude.txt` files. Their content is loaded to detect terms like `exclude`, `trimExclude` or `Zelix KlassMaster` (case-sensitive).
   * support Zelix KlassMaster `ZKM_log.txt` and `ZKM_TrimLog.txt` files.
+  * remove the generic association `*.toml`, as it masks several existing and useful TOML icons.
+  * rework the Rust Cargo icons.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.17):
   * improve support of the `Unit Tests` Run Configuration icon in Rider. The `Tests` tool window icon was colored, but not the Run Configuration icon.
 
