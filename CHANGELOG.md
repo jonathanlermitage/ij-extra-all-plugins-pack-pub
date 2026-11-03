@@ -2,6 +2,7 @@
 
 ## 2026.1.19 (WIP)
 * integrates the latest version of Extra Icons (2026.1.17):
+  * support `.claude` folders.
   * support `.junie` folders.
   * support `.junie/plans` folders.
   * support Markdown files located in `.junie/plans/`.
