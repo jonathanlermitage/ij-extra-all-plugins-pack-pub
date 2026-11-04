@@ -14,7 +14,7 @@
   * update the JUnit icon: it now uses the latest official JUnit logo. You can still use the JUnit 6 and JUnit 5 icons if you want (see JUnit alternative icons).
   * support `*.spritefont` files, used in frameworks like MonoGame.
   * support `*.xnb` files, used in frameworks like MonoGame.
-  * support Pixelorama `.pxo` files.
+  * support Pixelorama `*.pxo` files.
 * integrates the latest version of Extra ToolWindow Colorful Icons (2026.1.17):
   * improve support of the `Unit Tests` Run Configuration icon in Rider. The `Tests` tool window icon was colored, but not the Run Configuration icon.
   * support the Rust Cargo tool window icon.
